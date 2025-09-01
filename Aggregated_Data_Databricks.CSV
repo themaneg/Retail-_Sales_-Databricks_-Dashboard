@@ -1,0 +1,941 @@
+Converted_Date,AgeGroup,total_revenue_group,purchase_day,day_of_week,month_of_year,total_revenue,total_quantity,total_price_per_unit,total_number_of_customers,total_number_of_transaction,Gender
+2023/04/28,Adults,0-50:Low,Fri,6,Apr,75,3,50,2,2,Female
+2023/04/21,Adults,0-50:Low,Fri,6,Apr,50,1,50,1,1,Male
+2023/08/04,Adults,0-50:Low,Fri,6,Aug,50,2,25,1,1,Female
+2023/08/18,Adults,0-50:Low,Fri,6,Aug,30,1,30,1,1,Female
+2023/01/13,Adults,0-50:Low,Fri,6,Jan,30,1,30,1,1,Male
+2023/07/14,Adults,0-50:Low,Fri,6,Jul,25,1,25,1,1,Male
+2023/06/02,Adults,0-50:Low,Fri,6,Jun,50,2,25,1,1,Male
+2023/06/16,Adults,0-50:Low,Fri,6,Jun,30,1,30,1,1,Male
+2023/11/10,Adults,0-50:Low,Fri,6,Nov,25,1,25,1,1,Male
+2023/09/01,Adults,0-50:Low,Fri,6,Sep,25,1,25,1,1,Male
+2023/09/22,Adults,0-50:Low,Fri,6,Sep,50,1,50,1,1,Male
+2023/08/21,Adults,0-50:Low,Mon,2,Aug,50,1,50,1,1,Male
+2023/12/11,Adults,0-50:Low,Mon,2,Dec,50,1,50,1,1,Male
+2023/12/04,Adults,0-50:Low,Mon,2,Dec,50,1,50,1,1,Female
+2023/12/18,Adults,0-50:Low,Mon,2,Dec,50,2,25,1,1,Female
+2023/02/06,Adults,0-50:Low,Mon,2,Feb,25,1,25,1,1,Female
+2024/01/01,Adults,0-50:Low,Mon,2,Jan,30,1,30,1,1,Male
+2023/07/17,Adults,0-50:Low,Mon,2,Jul,50,1,50,1,1,Female
+2023/07/03,Adults,0-50:Low,Mon,2,Jul,30,1,30,1,1,Female
+2023/06/19,Adults,0-50:Low,Mon,2,Jun,25,1,25,1,1,Female
+2023/06/26,Adults,0-50:Low,Mon,2,Jun,30,1,30,1,1,Male
+2023/06/05,Adults,0-50:Low,Mon,2,Jun,50,2,25,1,1,Male
+2023/03/13,Adults,0-50:Low,Mon,2,Mar,50,2,25,1,1,Male
+2023/11/27,Adults,0-50:Low,Mon,2,Nov,25,1,25,1,1,Male
+2023/11/13,Adults,0-50:Low,Mon,2,Nov,25,1,25,1,1,Female
+2023/10/23,Adults,0-50:Low,Mon,2,Oct,50,1,50,1,1,Male
+2023/10/09,Adults,0-50:Low,Mon,2,Oct,75,3,50,2,2,Male
+2023/04/22,Adults,0-50:Low,Sat,7,Apr,50,2,25,1,1,Female
+2023/04/08,Adults,0-50:Low,Sat,7,Apr,30,1,30,1,1,Male
+2023/08/05,Adults,0-50:Low,Sat,7,Aug,30,1,30,1,1,Male
+2023/08/26,Adults,0-50:Low,Sat,7,Aug,25,1,25,1,1,Female
+2023/12/16,Adults,0-50:Low,Sat,7,Dec,30,1,30,1,1,Female
+2023/12/09,Adults,0-50:Low,Sat,7,Dec,25,1,25,1,1,Male
+2023/02/11,Adults,0-50:Low,Sat,7,Feb,25,1,25,1,1,Male
+2023/01/21,Adults,0-50:Low,Sat,7,Jan,30,1,30,1,1,Female
+2023/07/22,Adults,0-50:Low,Sat,7,Jul,50,1,50,1,1,Male
+2023/03/25,Adults,0-50:Low,Sat,7,Mar,25,1,25,1,1,Female
+2023/05/20,Adults,0-50:Low,Sat,7,May,50,2,25,1,1,Female
+2023/05/06,Adults,0-50:Low,Sat,7,May,30,1,30,1,1,Female
+2023/11/25,Adults,0-50:Low,Sat,7,Nov,50,2,25,1,1,Male
+2023/10/21,Adults,0-50:Low,Sat,7,Oct,50,1,50,1,1,Male
+2023/10/14,Adults,0-50:Low,Sat,7,Oct,50,1,50,1,1,Male
+2023/09/02,Adults,0-50:Low,Sat,7,Sep,50,2,25,1,1,Female
+2023/04/30,Adults,0-50:Low,Sun,1,Apr,80,3,55,2,2,Female
+2023/04/23,Adults,0-50:Low,Sun,1,Apr,25,1,25,1,1,Male
+2023/12/31,Adults,0-50:Low,Sun,1,Dec,50,2,25,1,1,Male
+2023/02/05,Adults,0-50:Low,Sun,1,Feb,25,1,25,1,1,Female
+2023/02/05,Adults,0-50:Low,Sun,1,Feb,110,4,85,3,3,Male
+2023/01/22,Adults,0-50:Low,Sun,1,Jan,25,1,25,1,1,Male
+2023/01/08,Adults,0-50:Low,Sun,1,Jan,25,1,25,1,1,Female
+2023/06/04,Adults,0-50:Low,Sun,1,Jun,30,1,30,1,1,Male
+2023/03/12,Adults,0-50:Low,Sun,1,Mar,25,1,25,1,1,Male
+2023/03/19,Adults,0-50:Low,Sun,1,Mar,80,3,55,2,2,Female
+2023/05/07,Adults,0-50:Low,Sun,1,May,75,2,75,2,2,Male
+2023/10/08,Adults,0-50:Low,Sun,1,Oct,25,1,25,1,1,Female
+2023/04/20,Adults,0-50:Low,Thu,5,Apr,50,2,25,1,1,Female
+2023/04/20,Adults,0-50:Low,Thu,5,Apr,50,1,50,1,1,Male
+2023/04/27,Adults,0-50:Low,Thu,5,Apr,30,1,30,1,1,Female
+2023/08/31,Adults,0-50:Low,Thu,5,Aug,50,2,25,1,1,Female
+2023/08/03,Adults,0-50:Low,Thu,5,Aug,25,1,25,1,1,Male
+2023/08/03,Adults,0-50:Low,Thu,5,Aug,50,2,25,1,1,Female
+2023/08/24,Adults,0-50:Low,Thu,5,Aug,30,1,30,1,1,Male
+2023/12/28,Adults,0-50:Low,Thu,5,Dec,25,1,25,1,1,Female
+2023/02/23,Adults,0-50:Low,Thu,5,Feb,30,1,30,1,1,Female
+2023/01/05,Adults,0-50:Low,Thu,5,Jan,50,1,50,1,1,Female
+2023/01/19,Adults,0-50:Low,Thu,5,Jan,30,1,30,1,1,Female
+2023/06/22,Adults,0-50:Low,Thu,5,Jun,50,1,50,1,1,Male
+2023/06/01,Adults,0-50:Low,Thu,5,Jun,50,1,50,1,1,Female
+2023/05/18,Adults,0-50:Low,Thu,5,May,50,1,50,1,1,Female
+2023/05/11,Adults,0-50:Low,Thu,5,May,30,1,30,1,1,Female
+2023/10/26,Adults,0-50:Low,Thu,5,Oct,50,1,50,1,1,Female
+2023/09/21,Adults,0-50:Low,Thu,5,Sep,30,1,30,1,1,Female
+2023/09/28,Adults,0-50:Low,Thu,5,Sep,25,1,25,1,1,Male
+2023/04/18,Adults,0-50:Low,Tue,3,Apr,50,2,25,1,1,Male
+2023/04/25,Adults,0-50:Low,Tue,3,Apr,30,1,30,1,1,Male
+2023/04/11,Adults,0-50:Low,Tue,3,Apr,50,2,25,1,1,Male
+2023/04/25,Adults,0-50:Low,Tue,3,Apr,30,1,30,1,1,Female
+2023/04/18,Adults,0-50:Low,Tue,3,Apr,50,2,25,1,1,Female
+2023/12/05,Adults,0-50:Low,Tue,3,Dec,25,1,25,1,1,Female
+2023/12/12,Adults,0-50:Low,Tue,3,Dec,50,1,50,1,1,Female
+2023/01/17,Adults,0-50:Low,Tue,3,Jan,25,1,25,1,1,Female
+2023/03/07,Adults,0-50:Low,Tue,3,Mar,50,2,25,1,1,Male
+2023/05/02,Adults,0-50:Low,Tue,3,May,50,1,50,1,1,Male
+2023/05/23,Adults,0-50:Low,Tue,3,May,30,1,30,1,1,Male
+2023/11/07,Adults,0-50:Low,Tue,3,Nov,50,2,50,2,2,Female
+2023/11/14,Adults,0-50:Low,Tue,3,Nov,50,1,50,1,1,Female
+2023/09/05,Adults,0-50:Low,Tue,3,Sep,30,1,30,1,1,Male
+2023/04/19,Adults,0-50:Low,Wed,4,Apr,50,2,25,1,1,Female
+2023/04/12,Adults,0-50:Low,Wed,4,Apr,50,2,25,1,1,Female
+2023/08/02,Adults,0-50:Low,Wed,4,Aug,50,2,25,1,1,Female
+2023/12/06,Adults,0-50:Low,Wed,4,Dec,50,2,25,1,1,Female
+2023/02/08,Adults,0-50:Low,Wed,4,Feb,50,2,25,1,1,Female
+2023/02/22,Adults,0-50:Low,Wed,4,Feb,50,2,25,1,1,Male
+2023/02/22,Adults,0-50:Low,Wed,4,Feb,25,1,25,1,1,Female
+2023/01/25,Adults,0-50:Low,Wed,4,Jan,50,1,50,1,1,Male
+2023/07/05,Adults,0-50:Low,Wed,4,Jul,30,1,30,1,1,Female
+2023/03/22,Adults,0-50:Low,Wed,4,Mar,50,1,50,1,1,Male
+2023/05/17,Adults,0-50:Low,Wed,4,May,50,1,50,1,1,Male
+2023/05/03,Adults,0-50:Low,Wed,4,May,60,2,60,2,2,Male
+2023/11/29,Adults,0-50:Low,Wed,4,Nov,25,1,25,1,1,Male
+2023/09/13,Adults,0-50:Low,Wed,4,Sep,50,2,25,1,1,Female
+2023/08/11,Adults,101-500:Medium-High,Fri,6,Aug,200,4,50,1,1,Female
+2023/08/25,Adults,101-500:Medium-High,Fri,6,Aug,120,4,30,1,1,Female
+2023/02/24,Adults,101-500:Medium-High,Fri,6,Feb,500,5,350,2,2,Male
+2023/01/06,Adults,101-500:Medium-High,Fri,6,Jan,500,1,500,1,1,Male
+2023/01/06,Adults,101-500:Medium-High,Fri,6,Jan,120,4,30,1,1,Female
+2023/07/14,Adults,101-500:Medium-High,Fri,6,Jul,150,3,50,1,1,Male
+2023/07/28,Adults,101-500:Medium-High,Fri,6,Jul,500,1,500,1,1,Male
+2023/07/14,Adults,101-500:Medium-High,Fri,6,Jul,300,1,300,1,1,Female
+2023/06/16,Adults,101-500:Medium-High,Fri,6,Jun,200,4,50,1,1,Male
+2023/06/09,Adults,101-500:Medium-High,Fri,6,Jun,200,4,50,1,1,Male
+2023/03/03,Adults,101-500:Medium-High,Fri,6,Mar,120,4,30,1,1,Female
+2023/05/05,Adults,101-500:Medium-High,Fri,6,May,300,1,300,1,1,Male
+2023/05/26,Adults,101-500:Medium-High,Fri,6,May,120,4,30,1,1,Female
+2023/10/27,Adults,101-500:Medium-High,Fri,6,Oct,150,3,50,1,1,Female
+2023/09/29,Adults,101-500:Medium-High,Fri,6,Sep,150,3,50,1,1,Male
+2023/04/24,Adults,101-500:Medium-High,Mon,2,Apr,120,4,30,1,1,Male
+2023/08/07,Adults,101-500:Medium-High,Mon,2,Aug,120,4,30,1,1,Male
+2023/08/28,Adults,101-500:Medium-High,Mon,2,Aug,200,4,50,1,1,Male
+2023/12/18,Adults,101-500:Medium-High,Mon,2,Dec,300,1,300,1,1,Female
+2023/02/06,Adults,101-500:Medium-High,Mon,2,Feb,150,3,50,1,1,Female
+2023/01/30,Adults,101-500:Medium-High,Mon,2,Jan,500,1,500,1,1,Male
+2023/01/23,Adults,101-500:Medium-High,Mon,2,Jan,120,4,30,1,1,Female
+2023/03/06,Adults,101-500:Medium-High,Mon,2,Mar,400,8,100,2,2,Female
+2023/03/13,Adults,101-500:Medium-High,Mon,2,Mar,150,3,50,1,1,Female
+2023/05/15,Adults,101-500:Medium-High,Mon,2,May,120,4,30,1,1,Female
+2023/05/01,Adults,101-500:Medium-High,Mon,2,May,500,1,500,1,1,Male
+2023/05/22,Adults,101-500:Medium-High,Mon,2,May,120,4,30,1,1,Female
+2023/11/27,Adults,101-500:Medium-High,Mon,2,Nov,120,4,30,1,1,Male
+2023/10/02,Adults,101-500:Medium-High,Mon,2,Oct,120,4,30,1,1,Male
+2023/10/09,Adults,101-500:Medium-High,Mon,2,Oct,120,4,30,1,1,Male
+2023/09/18,Adults,101-500:Medium-High,Mon,2,Sep,200,4,50,1,1,Female
+2023/04/15,Adults,101-500:Medium-High,Sat,7,Apr,200,4,50,1,1,Female
+2023/04/08,Adults,101-500:Medium-High,Sat,7,Apr,120,4,30,1,1,Male
+2023/08/12,Adults,101-500:Medium-High,Sat,7,Aug,120,4,30,1,1,Female
+2023/08/19,Adults,101-500:Medium-High,Sat,7,Aug,500,1,500,1,1,Male
+2023/08/05,Adults,101-500:Medium-High,Sat,7,Aug,500,1,500,1,1,Male
+2023/12/09,Adults,101-500:Medium-High,Sat,7,Dec,500,1,500,1,1,Female
+2023/02/04,Adults,101-500:Medium-High,Sat,7,Feb,120,4,30,1,1,Female
+2023/01/14,Adults,101-500:Medium-High,Sat,7,Jan,500,1,500,1,1,Female
+2023/07/08,Adults,101-500:Medium-High,Sat,7,Jul,120,4,30,1,1,Female
+2023/07/29,Adults,101-500:Medium-High,Sat,7,Jul,500,1,500,1,1,Male
+2023/06/17,Adults,101-500:Medium-High,Sat,7,Jun,200,4,50,1,1,Female
+2023/06/24,Adults,101-500:Medium-High,Sat,7,Jun,120,4,30,1,1,Male
+2023/06/10,Adults,101-500:Medium-High,Sat,7,Jun,200,4,50,1,1,Female
+2023/03/18,Adults,101-500:Medium-High,Sat,7,Mar,120,4,30,1,1,Female
+2023/03/11,Adults,101-500:Medium-High,Sat,7,Mar,500,1,500,1,1,Male
+2023/03/25,Adults,101-500:Medium-High,Sat,7,Mar,500,1,500,1,1,Female
+2023/05/27,Adults,101-500:Medium-High,Sat,7,May,150,3,50,1,1,Male
+2023/05/06,Adults,101-500:Medium-High,Sat,7,May,200,4,50,1,1,Male
+2023/10/07,Adults,101-500:Medium-High,Sat,7,Oct,200,4,50,1,1,Female
+2023/04/02,Adults,101-500:Medium-High,Sun,1,Apr,150,3,50,1,1,Female
+2023/04/02,Adults,101-500:Medium-High,Sun,1,Apr,450,4,350,2,2,Male
+2023/04/23,Adults,101-500:Medium-High,Sun,1,Apr,500,1,500,1,1,Female
+2023/04/16,Adults,101-500:Medium-High,Sun,1,Apr,300,1,300,1,1,Female
+2023/08/13,Adults,101-500:Medium-High,Sun,1,Aug,500,1,500,1,1,Male
+2023/08/27,Adults,101-500:Medium-High,Sun,1,Aug,300,1,300,1,1,Female
+2023/12/17,Adults,101-500:Medium-High,Sun,1,Dec,300,1,300,1,1,Female
+2023/12/24,Adults,101-500:Medium-High,Sun,1,Dec,150,3,50,1,1,Female
+2023/01/15,Adults,101-500:Medium-High,Sun,1,Jan,500,1,500,1,1,Male
+2023/01/22,Adults,101-500:Medium-High,Sun,1,Jan,300,1,300,1,1,Female
+2023/07/30,Adults,101-500:Medium-High,Sun,1,Jul,150,3,50,1,1,Female
+2023/03/12,Adults,101-500:Medium-High,Sun,1,Mar,500,1,500,1,1,Female
+2023/03/05,Adults,101-500:Medium-High,Sun,1,Mar,420,5,330,2,2,Female
+2023/05/21,Adults,101-500:Medium-High,Sun,1,May,500,1,500,1,1,Male
+2023/05/07,Adults,101-500:Medium-High,Sun,1,May,120,4,30,1,1,Female
+2023/05/14,Adults,101-500:Medium-High,Sun,1,May,500,1,500,1,1,Female
+2023/11/19,Adults,101-500:Medium-High,Sun,1,Nov,200,4,50,1,1,Male
+2023/11/12,Adults,101-500:Medium-High,Sun,1,Nov,150,3,50,1,1,Female
+2023/09/10,Adults,101-500:Medium-High,Sun,1,Sep,200,4,50,1,1,Male
+2023/09/17,Adults,101-500:Medium-High,Sun,1,Sep,450,4,350,2,2,Female
+2023/04/13,Adults,101-500:Medium-High,Thu,5,Apr,200,4,50,1,1,Male
+2023/04/27,Adults,101-500:Medium-High,Thu,5,Apr,200,4,50,1,1,Female
+2023/08/03,Adults,101-500:Medium-High,Thu,5,Aug,300,1,300,1,1,Female
+2023/08/31,Adults,101-500:Medium-High,Thu,5,Aug,200,4,50,1,1,Female
+2023/12/21,Adults,101-500:Medium-High,Thu,5,Dec,300,1,300,1,1,Female
+2023/02/02,Adults,101-500:Medium-High,Thu,5,Feb,150,3,50,1,1,Male
+2023/07/27,Adults,101-500:Medium-High,Thu,5,Jul,500,1,500,1,1,Female
+2023/06/22,Adults,101-500:Medium-High,Thu,5,Jun,120,4,30,1,1,Female
+2023/03/23,Adults,101-500:Medium-High,Thu,5,Mar,200,4,50,1,1,Male
+2023/03/30,Adults,101-500:Medium-High,Thu,5,Mar,200,4,50,1,1,Female
+2023/03/02,Adults,101-500:Medium-High,Thu,5,Mar,300,1,300,1,1,Male
+2023/03/09,Adults,101-500:Medium-High,Thu,5,Mar,200,4,50,1,1,Female
+2023/11/23,Adults,101-500:Medium-High,Thu,5,Nov,300,1,300,1,1,Female
+2023/11/30,Adults,101-500:Medium-High,Thu,5,Nov,300,1,300,1,1,Male
+2023/10/12,Adults,101-500:Medium-High,Thu,5,Oct,300,1,300,1,1,Female
+2023/10/19,Adults,101-500:Medium-High,Thu,5,Oct,300,1,300,1,1,Female
+2023/09/07,Adults,101-500:Medium-High,Thu,5,Sep,320,8,80,2,2,Male
+2023/08/15,Adults,101-500:Medium-High,Tue,3,Aug,120,4,30,1,1,Female
+2023/08/01,Adults,101-500:Medium-High,Tue,3,Aug,120,4,30,1,1,Male
+2023/08/29,Adults,101-500:Medium-High,Tue,3,Aug,500,1,500,1,1,Male
+2023/08/15,Adults,101-500:Medium-High,Tue,3,Aug,700,5,550,2,2,Male
+2023/12/12,Adults,101-500:Medium-High,Tue,3,Dec,150,3,50,1,1,Female
+2023/12/05,Adults,101-500:Medium-High,Tue,3,Dec,150,3,50,1,1,Female
+2023/02/07,Adults,101-500:Medium-High,Tue,3,Feb,200,4,50,1,1,Male
+2023/02/21,Adults,101-500:Medium-High,Tue,3,Feb,300,1,300,1,1,Female
+2023/02/14,Adults,101-500:Medium-High,Tue,3,Feb,300,1,300,1,1,Male
+2023/01/17,Adults,101-500:Medium-High,Tue,3,Jan,500,1,500,1,1,Female
+2023/01/24,Adults,101-500:Medium-High,Tue,3,Jan,150,3,50,1,1,Male
+2023/06/13,Adults,101-500:Medium-High,Tue,3,Jun,500,1,500,1,1,Female
+2023/06/06,Adults,101-500:Medium-High,Tue,3,Jun,200,4,50,1,1,Male
+2023/03/21,Adults,101-500:Medium-High,Tue,3,Mar,200,4,50,1,1,Male
+2023/05/16,Adults,101-500:Medium-High,Tue,3,May,150,3,50,1,1,Female
+2023/05/09,Adults,101-500:Medium-High,Tue,3,May,500,1,500,1,1,Male
+2023/05/23,Adults,101-500:Medium-High,Tue,3,May,150,3,50,1,1,Female
+2023/11/28,Adults,101-500:Medium-High,Tue,3,Nov,300,1,300,1,1,Male
+2023/10/10,Adults,101-500:Medium-High,Tue,3,Oct,200,4,50,1,1,Female
+2023/10/03,Adults,101-500:Medium-High,Tue,3,Oct,150,3,50,1,1,Male
+2023/09/05,Adults,101-500:Medium-High,Tue,3,Sep,500,1,500,1,1,Female
+2023/04/12,Adults,101-500:Medium-High,Wed,4,Apr,120,4,30,1,1,Male
+2023/04/12,Adults,101-500:Medium-High,Wed,4,Apr,300,1,300,1,1,Female
+2023/04/26,Adults,101-500:Medium-High,Wed,4,Apr,120,4,30,1,1,Male
+2023/08/09,Adults,101-500:Medium-High,Wed,4,Aug,200,4,50,1,1,Female
+2023/12/20,Adults,101-500:Medium-High,Wed,4,Dec,150,3,50,1,1,Male
+2023/02/08,Adults,101-500:Medium-High,Wed,4,Feb,200,4,50,1,1,Male
+2023/07/26,Adults,101-500:Medium-High,Wed,4,Jul,300,1,300,1,1,Male
+2023/06/28,Adults,101-500:Medium-High,Wed,4,Jun,300,1,300,1,1,Male
+2023/03/22,Adults,101-500:Medium-High,Wed,4,Mar,150,3,50,1,1,Female
+2023/03/29,Adults,101-500:Medium-High,Wed,4,Mar,500,1,500,1,1,Male
+2023/05/10,Adults,101-500:Medium-High,Wed,4,May,200,4,50,1,1,Male
+2023/11/29,Adults,101-500:Medium-High,Wed,4,Nov,300,1,300,1,1,Female
+2023/10/11,Adults,101-500:Medium-High,Wed,4,Oct,700,5,550,2,2,Female
+2023/09/06,Adults,101-500:Medium-High,Wed,4,Sep,200,4,50,1,1,Male
+2023/09/06,Adults,101-500:Medium-High,Wed,4,Sep,200,4,50,1,1,Female
+2023/12/15,Adults,1500* : Very High,Fri,6,Dec,2000,4,500,1,1,Male
+2023/02/17,Adults,1500* : Very High,Fri,6,Feb,2000,4,500,1,1,Male
+2023/01/16,Adults,1500* : Very High,Mon,2,Jan,2000,4,500,1,1,Female
+2023/07/24,Adults,1500* : Very High,Mon,2,Jul,2000,4,500,1,1,Male
+2023/09/11,Adults,1500* : Very High,Mon,2,Sep,2000,4,500,1,1,Male
+2023/12/09,Adults,1500* : Very High,Sat,7,Dec,2000,4,500,1,1,Male
+2023/01/21,Adults,1500* : Very High,Sat,7,Jan,2000,4,500,1,1,Female
+2023/06/24,Adults,1500* : Very High,Sat,7,Jun,2000,4,500,1,1,Male
+2023/08/06,Adults,1500* : Very High,Sun,1,Aug,2000,4,500,1,1,Female
+2023/10/08,Adults,1500* : Very High,Sun,1,Oct,2000,4,500,1,1,Male
+2023/10/01,Adults,1500* : Very High,Sun,1,Oct,2000,4,500,1,1,Female
+2023/08/31,Adults,1500* : Very High,Thu,5,Aug,2000,4,500,1,1,Female
+2023/12/28,Adults,1500* : Very High,Thu,5,Dec,2000,4,500,1,1,Female
+2023/06/29,Adults,1500* : Very High,Thu,5,Jun,2000,4,500,1,1,Female
+2023/12/05,Adults,1500* : Very High,Tue,3,Dec,2000,4,500,1,1,Male
+2023/02/28,Adults,1500* : Very High,Tue,3,Feb,2000,4,500,1,1,Male
+2023/01/24,Adults,1500* : Very High,Tue,3,Jan,2000,4,500,1,1,Female
+2023/05/16,Adults,1500* : Very High,Tue,3,May,2000,4,500,1,1,Male
+2023/10/24,Adults,1500* : Very High,Tue,3,Oct,2000,4,500,1,1,Female
+2023/05/10,Adults,1500* : Very High,Wed,4,May,2000,4,500,1,1,Male
+2023/10/25,Adults,1500* : Very High,Wed,4,Oct,2000,4,500,1,1,Male
+2023/08/18,Adults,501-1500:High,Fri,6,Aug,1500,3,500,1,1,Female
+2023/08/11,Adults,501-1500:High,Fri,6,Aug,600,2,300,1,1,Male
+2023/12/22,Adults,501-1500:High,Fri,6,Dec,1000,2,500,1,1,Male
+2023/12/29,Adults,501-1500:High,Fri,6,Dec,600,2,300,1,1,Female
+2023/12/29,Adults,501-1500:High,Fri,6,Dec,1200,4,300,1,1,Male
+2023/12/08,Adults,501-1500:High,Fri,6,Dec,900,3,300,1,1,Female
+2023/02/24,Adults,501-1500:High,Fri,6,Feb,1500,3,500,1,1,Male
+2023/02/10,Adults,501-1500:High,Fri,6,Feb,1500,3,500,1,1,Female
+2023/01/13,Adults,501-1500:High,Fri,6,Jan,600,2,300,1,1,Male
+2023/07/14,Adults,501-1500:High,Fri,6,Jul,1500,5,600,2,2,Male
+2023/07/28,Adults,501-1500:High,Fri,6,Jul,900,3,300,1,1,Female
+2023/03/17,Adults,501-1500:High,Fri,6,Mar,900,3,300,1,1,Male
+2023/05/05,Adults,501-1500:High,Fri,6,May,1000,2,500,1,1,Female
+2023/05/19,Adults,501-1500:High,Fri,6,May,1000,2,500,1,1,Female
+2023/05/26,Adults,501-1500:High,Fri,6,May,1000,2,500,1,1,Female
+2023/11/17,Adults,501-1500:High,Fri,6,Nov,900,3,300,1,1,Female
+2023/11/24,Adults,501-1500:High,Fri,6,Nov,900,3,300,1,1,Female
+2023/10/06,Adults,501-1500:High,Fri,6,Oct,1500,3,500,1,1,Male
+2023/10/13,Adults,501-1500:High,Fri,6,Oct,1000,2,500,1,1,Female
+2023/09/08,Adults,501-1500:High,Fri,6,Sep,900,3,300,1,1,Female
+2023/09/01,Adults,501-1500:High,Fri,6,Sep,600,2,300,1,1,Male
+2023/08/07,Adults,501-1500:High,Mon,2,Aug,900,3,300,1,1,Female
+2023/08/14,Adults,501-1500:High,Mon,2,Aug,1200,4,300,1,1,Male
+2023/12/25,Adults,501-1500:High,Mon,2,Dec,1200,4,300,1,1,Female
+2023/12/18,Adults,501-1500:High,Mon,2,Dec,1000,2,500,1,1,Female
+2023/12/11,Adults,501-1500:High,Mon,2,Dec,900,3,300,1,1,Male
+2023/12/04,Adults,501-1500:High,Mon,2,Dec,1500,3,500,1,1,Male
+2023/02/27,Adults,501-1500:High,Mon,2,Feb,600,2,300,1,1,Female
+2023/02/20,Adults,501-1500:High,Mon,2,Feb,1000,2,500,1,1,Male
+2023/01/23,Adults,501-1500:High,Mon,2,Jan,1000,2,500,1,1,Female
+2024/01/01,Adults,501-1500:High,Mon,2,Jan,1500,3,500,1,1,Male
+2023/01/02,Adults,501-1500:High,Mon,2,Jan,1500,3,500,1,1,Female
+2023/07/31,Adults,501-1500:High,Mon,2,Jul,1500,3,500,1,1,Female
+2023/07/24,Adults,501-1500:High,Mon,2,Jul,1000,2,500,1,1,Male
+2023/07/17,Adults,501-1500:High,Mon,2,Jul,900,3,300,1,1,Female
+2023/06/19,Adults,501-1500:High,Mon,2,Jun,1500,3,500,1,1,Male
+2023/06/26,Adults,501-1500:High,Mon,2,Jun,900,3,300,1,1,Female
+2023/03/20,Adults,501-1500:High,Mon,2,Mar,600,2,300,1,1,Male
+2023/05/08,Adults,501-1500:High,Mon,2,May,1500,3,500,1,1,Female
+2023/05/29,Adults,501-1500:High,Mon,2,May,1200,4,300,1,1,Female
+2023/05/15,Adults,501-1500:High,Mon,2,May,1500,3,500,1,1,Female
+2023/11/06,Adults,501-1500:High,Mon,2,Nov,1500,3,500,1,1,Female
+2023/10/16,Adults,501-1500:High,Mon,2,Oct,1200,4,300,1,1,Female
+2023/10/02,Adults,501-1500:High,Mon,2,Oct,900,3,300,1,1,Male
+2023/09/25,Adults,501-1500:High,Mon,2,Sep,900,3,300,1,1,Female
+2023/09/04,Adults,501-1500:High,Mon,2,Sep,1000,2,500,1,1,Female
+2023/04/01,Adults,501-1500:High,Sat,7,Apr,1200,4,300,1,1,Female
+2023/04/29,Adults,501-1500:High,Sat,7,Apr,1000,2,500,1,1,Female
+2023/04/08,Adults,501-1500:High,Sat,7,Apr,1000,2,500,1,1,Male
+2023/08/12,Adults,501-1500:High,Sat,7,Aug,1000,2,500,1,1,Male
+2023/08/05,Adults,501-1500:High,Sat,7,Aug,1900,5,800,2,2,Female
+2023/12/23,Adults,501-1500:High,Sat,7,Dec,900,3,300,1,1,Female
+2023/12/02,Adults,501-1500:High,Sat,7,Dec,1500,3,500,1,1,Male
+2023/12/02,Adults,501-1500:High,Sat,7,Dec,1500,3,500,1,1,Female
+2023/02/25,Adults,501-1500:High,Sat,7,Feb,900,3,300,1,1,Male
+2023/02/11,Adults,501-1500:High,Sat,7,Feb,1000,2,500,1,1,Male
+2023/02/04,Adults,501-1500:High,Sat,7,Feb,1000,2,500,1,1,Female
+2023/01/14,Adults,501-1500:High,Sat,7,Jan,900,3,300,1,1,Female
+2023/01/28,Adults,501-1500:High,Sat,7,Jan,900,3,300,1,1,Male
+2023/07/15,Adults,501-1500:High,Sat,7,Jul,1500,3,500,1,1,Female
+2023/07/01,Adults,501-1500:High,Sat,7,Jul,1500,3,500,1,1,Female
+2023/06/17,Adults,501-1500:High,Sat,7,Jun,1200,4,300,1,1,Male
+2023/06/10,Adults,501-1500:High,Sat,7,Jun,2500,5,1000,2,2,Male
+2023/06/24,Adults,501-1500:High,Sat,7,Jun,900,3,300,1,1,Male
+2023/03/04,Adults,501-1500:High,Sat,7,Mar,1000,2,500,1,1,Female
+2023/03/18,Adults,501-1500:High,Sat,7,Mar,1500,3,500,1,1,Male
+2023/05/06,Adults,501-1500:High,Sat,7,May,600,2,300,1,1,Male
+2023/05/13,Adults,501-1500:High,Sat,7,May,600,2,300,1,1,Male
+2023/11/18,Adults,501-1500:High,Sat,7,Nov,1000,2,500,1,1,Male
+2023/09/02,Adults,501-1500:High,Sat,7,Sep,1200,4,300,1,1,Male
+2023/04/09,Adults,501-1500:High,Sun,1,Apr,900,3,300,1,1,Male
+2023/04/23,Adults,501-1500:High,Sun,1,Apr,1500,3,500,1,1,Male
+2023/12/17,Adults,501-1500:High,Sun,1,Dec,1200,4,300,1,1,Female
+2023/02/05,Adults,501-1500:High,Sun,1,Feb,1200,4,300,1,1,Female
+2023/01/01,Adults,501-1500:High,Sun,1,Jan,1200,4,300,1,1,Female
+2023/01/01,Adults,501-1500:High,Sun,1,Jan,2400,6,800,2,2,Male
+2023/01/08,Adults,501-1500:High,Sun,1,Jan,600,2,300,1,1,Male
+2023/06/25,Adults,501-1500:High,Sun,1,Jun,900,3,300,1,1,Female
+2023/06/04,Adults,501-1500:High,Sun,1,Jun,900,3,300,1,1,Male
+2023/06/11,Adults,501-1500:High,Sun,1,Jun,1000,2,500,1,1,Male
+2023/06/18,Adults,501-1500:High,Sun,1,Jun,900,3,300,1,1,Female
+2023/05/07,Adults,501-1500:High,Sun,1,May,600,2,300,1,1,Male
+2023/05/21,Adults,501-1500:High,Sun,1,May,2400,6,800,2,2,Male
+2023/11/26,Adults,501-1500:High,Sun,1,Nov,1500,3,500,1,1,Male
+2023/11/05,Adults,501-1500:High,Sun,1,Nov,900,3,300,1,1,Female
+2023/10/29,Adults,501-1500:High,Sun,1,Oct,900,3,300,1,1,Female
+2023/10/22,Adults,501-1500:High,Sun,1,Oct,1900,5,800,2,2,Female
+2023/04/06,Adults,501-1500:High,Thu,5,Apr,1200,4,300,1,1,Male
+2023/08/24,Adults,501-1500:High,Thu,5,Aug,1200,4,300,1,1,Male
+2023/12/07,Adults,501-1500:High,Thu,5,Dec,900,3,300,1,1,Male
+2023/02/09,Adults,501-1500:High,Thu,5,Feb,600,2,300,1,1,Female
+2023/01/26,Adults,501-1500:High,Thu,5,Jan,1500,3,500,1,1,Female
+2023/01/05,Adults,501-1500:High,Thu,5,Jan,1000,2,500,1,1,Female
+2023/07/27,Adults,501-1500:High,Thu,5,Jul,600,2,300,1,1,Female
+2023/06/08,Adults,501-1500:High,Thu,5,Jun,1200,4,300,1,1,Female
+2023/06/22,Adults,501-1500:High,Thu,5,Jun,900,3,300,1,1,Male
+2023/05/25,Adults,501-1500:High,Thu,5,May,1000,2,500,1,1,Female
+2023/05/25,Adults,501-1500:High,Thu,5,May,1000,2,500,1,1,Male
+2023/11/02,Adults,501-1500:High,Thu,5,Nov,1500,3,500,1,1,Female
+2023/11/23,Adults,501-1500:High,Thu,5,Nov,1200,4,300,1,1,Male
+2023/10/19,Adults,501-1500:High,Thu,5,Oct,1200,4,300,1,1,Female
+2023/09/14,Adults,501-1500:High,Thu,5,Sep,1200,4,300,1,1,Female
+2023/04/04,Adults,501-1500:High,Tue,3,Apr,1500,3,500,1,1,Female
+2023/08/08,Adults,501-1500:High,Tue,3,Aug,1200,4,300,1,1,Female
+2023/12/26,Adults,501-1500:High,Tue,3,Dec,1500,5,600,2,2,Female
+2023/12/19,Adults,501-1500:High,Tue,3,Dec,600,2,300,1,1,Female
+2023/01/17,Adults,501-1500:High,Tue,3,Jan,1000,2,500,1,1,Female
+2023/06/06,Adults,501-1500:High,Tue,3,Jun,1200,4,300,1,1,Female
+2023/06/27,Adults,501-1500:High,Tue,3,Jun,900,3,300,1,1,Female
+2023/03/07,Adults,501-1500:High,Tue,3,Mar,900,3,300,1,1,Female
+2023/03/21,Adults,501-1500:High,Tue,3,Mar,2100,5,800,2,2,Female
+2023/05/23,Adults,501-1500:High,Tue,3,May,1800,6,600,2,2,Female
+2023/05/23,Adults,501-1500:High,Tue,3,May,1200,4,300,1,1,Male
+2023/05/16,Adults,501-1500:High,Tue,3,May,600,2,300,1,1,Female
+2023/05/16,Adults,501-1500:High,Tue,3,May,1900,5,800,2,2,Male
+2023/11/21,Adults,501-1500:High,Tue,3,Nov,900,3,300,1,1,Male
+2023/11/07,Adults,501-1500:High,Tue,3,Nov,900,3,300,1,1,Male
+2023/10/10,Adults,501-1500:High,Tue,3,Oct,1200,4,300,1,1,Male
+2023/10/10,Adults,501-1500:High,Tue,3,Oct,600,2,300,1,1,Female
+2023/10/03,Adults,501-1500:High,Tue,3,Oct,1200,4,300,1,1,Male
+2023/04/05,Adults,501-1500:High,Wed,4,Apr,900,3,300,1,1,Male
+2023/04/12,Adults,501-1500:High,Wed,4,Apr,1000,2,500,1,1,Female
+2023/04/19,Adults,501-1500:High,Wed,4,Apr,900,3,300,1,1,Female
+2023/08/23,Adults,501-1500:High,Wed,4,Aug,1200,4,300,1,1,Female
+2023/12/06,Adults,501-1500:High,Wed,4,Dec,1000,2,500,1,1,Male
+2023/12/27,Adults,501-1500:High,Wed,4,Dec,600,2,300,1,1,Female
+2023/02/01,Adults,501-1500:High,Wed,4,Feb,1500,3,500,1,1,Female
+2023/01/04,Adults,501-1500:High,Wed,4,Jan,1000,2,500,1,1,Male
+2023/07/26,Adults,501-1500:High,Wed,4,Jul,600,2,300,1,1,Male
+2023/05/17,Adults,501-1500:High,Wed,4,May,1000,2,500,1,1,Female
+2023/11/29,Adults,501-1500:High,Wed,4,Nov,1500,3,500,1,1,Male
+2023/10/25,Adults,501-1500:High,Wed,4,Oct,1500,3,500,1,1,Male
+2023/04/28,Adults,51-100:Medium,Fri,6,Apr,60,2,30,1,1,Female
+2023/08/25,Adults,51-100:Medium,Fri,6,Aug,75,3,25,1,1,Female
+2023/08/04,Adults,51-100:Medium,Fri,6,Aug,160,4,80,2,2,Female
+2023/08/11,Adults,51-100:Medium,Fri,6,Aug,100,2,50,1,1,Female
+2023/08/18,Adults,51-100:Medium,Fri,6,Aug,100,4,25,1,1,Male
+2023/12/29,Adults,51-100:Medium,Fri,6,Dec,100,4,25,1,1,Female
+2023/02/17,Adults,51-100:Medium,Fri,6,Feb,90,3,30,1,1,Female
+2023/01/13,Adults,51-100:Medium,Fri,6,Jan,100,4,25,1,1,Male
+2023/01/27,Adults,51-100:Medium,Fri,6,Jan,60,2,30,1,1,Male
+2023/07/14,Adults,51-100:Medium,Fri,6,Jul,160,6,55,2,2,Female
+2023/03/17,Adults,51-100:Medium,Fri,6,Mar,100,4,25,1,1,Female
+2023/03/17,Adults,51-100:Medium,Fri,6,Mar,75,3,25,1,1,Male
+2023/03/24,Adults,51-100:Medium,Fri,6,Mar,100,2,50,1,1,Male
+2023/03/03,Adults,51-100:Medium,Fri,6,Mar,100,4,25,1,1,Female
+2023/11/17,Adults,51-100:Medium,Fri,6,Nov,90,3,30,1,1,Male
+2023/11/10,Adults,51-100:Medium,Fri,6,Nov,90,3,30,1,1,Male
+2023/10/13,Adults,51-100:Medium,Fri,6,Oct,100,4,25,1,1,Male
+2023/09/08,Adults,51-100:Medium,Fri,6,Sep,100,2,50,1,1,Male
+2023/09/08,Adults,51-100:Medium,Fri,6,Sep,75,3,25,1,1,Female
+2023/08/21,Adults,51-100:Medium,Mon,2,Aug,60,2,30,1,1,Male
+2023/08/21,Adults,51-100:Medium,Mon,2,Aug,60,2,30,1,1,Female
+2023/02/20,Adults,51-100:Medium,Mon,2,Feb,100,4,25,1,1,Male
+2023/01/30,Adults,51-100:Medium,Mon,2,Jan,100,4,25,1,1,Female
+2023/06/19,Adults,51-100:Medium,Mon,2,Jun,100,4,25,1,1,Female
+2023/03/13,Adults,51-100:Medium,Mon,2,Mar,100,4,25,1,1,Female
+2023/05/22,Adults,51-100:Medium,Mon,2,May,190,7,55,2,2,Female
+2023/05/15,Adults,51-100:Medium,Mon,2,May,60,2,30,1,1,Female
+2023/10/16,Adults,51-100:Medium,Mon,2,Oct,100,4,25,1,1,Female
+2023/09/25,Adults,51-100:Medium,Mon,2,Sep,90,3,30,1,1,Female
+2023/04/22,Adults,51-100:Medium,Sat,7,Apr,75,3,25,1,1,Female
+2023/04/08,Adults,51-100:Medium,Sat,7,Apr,100,4,25,1,1,Female
+2023/08/19,Adults,51-100:Medium,Sat,7,Aug,100,2,50,1,1,Female
+2023/08/12,Adults,51-100:Medium,Sat,7,Aug,100,2,50,1,1,Male
+2023/12/16,Adults,51-100:Medium,Sat,7,Dec,100,2,50,1,1,Male
+2023/02/11,Adults,51-100:Medium,Sat,7,Feb,100,4,25,1,1,Male
+2023/01/07,Adults,51-100:Medium,Sat,7,Jan,150,6,50,2,2,Male
+2023/01/21,Adults,51-100:Medium,Sat,7,Jan,60,2,30,1,1,Female
+2023/07/08,Adults,51-100:Medium,Sat,7,Jul,100,2,50,1,1,Male
+2023/05/20,Adults,51-100:Medium,Sat,7,May,75,3,25,1,1,Male
+2023/11/25,Adults,51-100:Medium,Sat,7,Nov,100,4,25,1,1,Female
+2023/11/18,Adults,51-100:Medium,Sat,7,Nov,100,4,25,1,1,Female
+2023/10/07,Adults,51-100:Medium,Sat,7,Oct,100,2,50,1,1,Male
+2023/10/14,Adults,51-100:Medium,Sat,7,Oct,60,2,30,1,1,Male
+2023/09/23,Adults,51-100:Medium,Sat,7,Sep,100,2,50,1,1,Male
+2023/04/30,Adults,51-100:Medium,Sun,1,Apr,75,3,25,1,1,Female
+2023/04/09,Adults,51-100:Medium,Sun,1,Apr,60,2,30,1,1,Female
+2023/04/23,Adults,51-100:Medium,Sun,1,Apr,280,8,110,3,3,Female
+2023/08/27,Adults,51-100:Medium,Sun,1,Aug,75,3,25,1,1,Female
+2023/08/20,Adults,51-100:Medium,Sun,1,Aug,90,3,30,1,1,Female
+2023/01/15,Adults,51-100:Medium,Sun,1,Jan,60,2,30,1,1,Male
+2023/07/09,Adults,51-100:Medium,Sun,1,Jul,200,6,75,2,2,Female
+2023/07/16,Adults,51-100:Medium,Sun,1,Jul,190,7,55,2,2,Female
+2023/07/09,Adults,51-100:Medium,Sun,1,Jul,75,3,25,1,1,Male
+2023/06/11,Adults,51-100:Medium,Sun,1,Jun,100,4,25,1,1,Male
+2023/05/14,Adults,51-100:Medium,Sun,1,May,60,2,30,1,1,Male
+2023/11/26,Adults,51-100:Medium,Sun,1,Nov,100,4,25,1,1,Female
+2023/10/29,Adults,51-100:Medium,Sun,1,Oct,90,3,30,1,1,Male
+2023/10/29,Adults,51-100:Medium,Sun,1,Oct,60,2,30,1,1,Female
+2023/04/13,Adults,51-100:Medium,Thu,5,Apr,60,2,30,1,1,Female
+2023/04/20,Adults,51-100:Medium,Thu,5,Apr,75,3,25,1,1,Female
+2023/04/13,Adults,51-100:Medium,Thu,5,Apr,100,2,50,1,1,Male
+2023/12/14,Adults,51-100:Medium,Thu,5,Dec,60,2,30,1,1,Female
+2023/07/06,Adults,51-100:Medium,Thu,5,Jul,60,2,30,1,1,Female
+2023/06/01,Adults,51-100:Medium,Thu,5,Jun,60,2,30,1,1,Male
+2023/03/09,Adults,51-100:Medium,Thu,5,Mar,100,4,25,1,1,Male
+2023/03/23,Adults,51-100:Medium,Thu,5,Mar,100,2,50,1,1,Female
+2023/05/04,Adults,51-100:Medium,Thu,5,May,90,3,30,1,1,Female
+2023/11/30,Adults,51-100:Medium,Thu,5,Nov,160,6,55,2,2,Male
+2023/11/02,Adults,51-100:Medium,Thu,5,Nov,165,6,55,2,2,Female
+2023/11/23,Adults,51-100:Medium,Thu,5,Nov,90,3,30,1,1,Female
+2023/10/19,Adults,51-100:Medium,Thu,5,Oct,60,2,30,1,1,Male
+2023/09/28,Adults,51-100:Medium,Thu,5,Sep,100,2,50,1,1,Male
+2023/04/25,Adults,51-100:Medium,Tue,3,Apr,100,2,50,1,1,Male
+2023/04/04,Adults,51-100:Medium,Tue,3,Apr,120,4,60,2,2,Female
+2023/08/22,Adults,51-100:Medium,Tue,3,Aug,75,3,25,1,1,Female
+2023/08/29,Adults,51-100:Medium,Tue,3,Aug,100,2,50,1,1,Male
+2023/08/08,Adults,51-100:Medium,Tue,3,Aug,160,4,80,2,2,Male
+2023/08/15,Adults,51-100:Medium,Tue,3,Aug,100,2,50,1,1,Male
+2023/12/19,Adults,51-100:Medium,Tue,3,Dec,190,5,80,2,2,Female
+2023/02/28,Adults,51-100:Medium,Tue,3,Feb,100,4,25,1,1,Female
+2023/02/07,Adults,51-100:Medium,Tue,3,Feb,100,2,50,1,1,Male
+2023/01/24,Adults,51-100:Medium,Tue,3,Jan,100,4,25,1,1,Male
+2023/07/11,Adults,51-100:Medium,Tue,3,Jul,100,2,50,1,1,Female
+2023/03/28,Adults,51-100:Medium,Tue,3,Mar,100,2,50,1,1,Male
+2023/05/09,Adults,51-100:Medium,Tue,3,May,100,4,25,1,1,Male
+2023/05/02,Adults,51-100:Medium,Tue,3,May,90,3,30,1,1,Male
+2023/11/28,Adults,51-100:Medium,Tue,3,Nov,90,3,30,1,1,Female
+2023/11/14,Adults,51-100:Medium,Tue,3,Nov,100,4,25,1,1,Female
+2023/11/21,Adults,51-100:Medium,Tue,3,Nov,60,2,30,1,1,Female
+2023/11/07,Adults,51-100:Medium,Tue,3,Nov,60,2,30,1,1,Female
+2023/10/17,Adults,51-100:Medium,Tue,3,Oct,100,4,25,1,1,Male
+2023/10/24,Adults,51-100:Medium,Tue,3,Oct,175,5,75,2,2,Male
+2023/10/03,Adults,51-100:Medium,Tue,3,Oct,100,4,25,1,1,Male
+2023/09/19,Adults,51-100:Medium,Tue,3,Sep,60,2,30,1,1,Male
+2023/04/26,Adults,51-100:Medium,Wed,4,Apr,150,5,60,2,2,Male
+2023/12/06,Adults,51-100:Medium,Wed,4,Dec,90,3,30,1,1,Male
+2023/12/13,Adults,51-100:Medium,Wed,4,Dec,75,3,25,1,1,Female
+2023/02/08,Adults,51-100:Medium,Wed,4,Feb,100,4,25,1,1,Female
+2023/01/11,Adults,51-100:Medium,Wed,4,Jan,100,4,25,1,1,Female
+2023/07/19,Adults,51-100:Medium,Wed,4,Jul,60,2,30,1,1,Female
+2023/07/26,Adults,51-100:Medium,Wed,4,Jul,100,2,50,1,1,Male
+2023/06/21,Adults,51-100:Medium,Wed,4,Jun,75,3,25,1,1,Male
+2023/03/22,Adults,51-100:Medium,Wed,4,Mar,100,2,50,1,1,Male
+2023/03/01,Adults,51-100:Medium,Wed,4,Mar,100,4,25,1,1,Female
+2023/03/22,Adults,51-100:Medium,Wed,4,Mar,90,3,30,1,1,Female
+2023/05/03,Adults,51-100:Medium,Wed,4,May,165,6,55,2,2,Male
+2023/05/03,Adults,51-100:Medium,Wed,4,May,75,3,25,1,1,Female
+2023/11/15,Adults,51-100:Medium,Wed,4,Nov,100,4,25,1,1,Male
+2023/11/22,Adults,51-100:Medium,Wed,4,Nov,100,4,25,1,1,Male
+2023/10/11,Adults,51-100:Medium,Wed,4,Oct,100,2,50,1,1,Male
+2023/10/04,Adults,51-100:Medium,Wed,4,Oct,120,4,60,2,2,Male
+2023/09/06,Adults,51-100:Medium,Wed,4,Sep,90,3,30,1,1,Male
+2023/08/04,Seniors Citizen,0-50:Low,Fri,6,Aug,50,1,50,1,1,Male
+2023/06/02,Seniors Citizen,0-50:Low,Fri,6,Jun,50,2,25,1,1,Male
+2023/05/19,Seniors Citizen,0-50:Low,Fri,6,May,50,2,25,1,1,Male
+2023/04/17,Seniors Citizen,0-50:Low,Mon,2,Apr,25,1,25,1,1,Male
+2023/01/30,Seniors Citizen,0-50:Low,Mon,2,Jan,50,1,50,1,1,Male
+2023/06/12,Seniors Citizen,0-50:Low,Mon,2,Jun,50,2,25,1,1,Male
+2023/11/20,Seniors Citizen,0-50:Low,Mon,2,Nov,50,2,25,1,1,Female
+2023/08/05,Seniors Citizen,0-50:Low,Sat,7,Aug,25,1,25,1,1,Male
+2023/12/02,Seniors Citizen,0-50:Low,Sat,7,Dec,30,1,30,1,1,Female
+2023/02/25,Seniors Citizen,0-50:Low,Sat,7,Feb,50,1,50,1,1,Male
+2023/06/03,Seniors Citizen,0-50:Low,Sat,7,Jun,25,1,25,1,1,Male
+2023/11/18,Seniors Citizen,0-50:Low,Sat,7,Nov,30,1,30,1,1,Female
+2023/09/16,Seniors Citizen,0-50:Low,Sat,7,Sep,50,2,25,1,1,Female
+2023/10/29,Seniors Citizen,0-50:Low,Sun,1,Oct,50,1,50,1,1,Female
+2023/08/31,Seniors Citizen,0-50:Low,Thu,5,Aug,50,2,25,1,1,Female
+2023/12/28,Seniors Citizen,0-50:Low,Thu,5,Dec,50,2,25,1,1,Male
+2023/02/02,Seniors Citizen,0-50:Low,Thu,5,Feb,25,1,25,1,1,Female
+2023/08/08,Seniors Citizen,0-50:Low,Tue,3,Aug,25,1,25,1,1,Male
+2023/12/26,Seniors Citizen,0-50:Low,Tue,3,Dec,50,1,50,1,1,Female
+2023/06/06,Seniors Citizen,0-50:Low,Tue,3,Jun,50,2,25,1,1,Female
+2023/05/16,Seniors Citizen,0-50:Low,Tue,3,May,30,1,30,1,1,Female
+2023/05/16,Seniors Citizen,0-50:Low,Tue,3,May,50,1,50,1,1,Male
+2023/11/14,Seniors Citizen,0-50:Low,Tue,3,Nov,30,1,30,1,1,Male
+2023/10/24,Seniors Citizen,0-50:Low,Tue,3,Oct,25,1,25,1,1,Male
+2023/07/05,Seniors Citizen,0-50:Low,Wed,4,Jul,50,1,50,1,1,Male
+2023/05/24,Seniors Citizen,0-50:Low,Wed,4,May,50,2,25,1,1,Male
+2023/10/18,Seniors Citizen,0-50:Low,Wed,4,Oct,25,1,25,1,1,Male
+2023/08/25,Seniors Citizen,101-500:Medium-High,Fri,6,Aug,200,4,50,1,1,Female
+2023/07/28,Seniors Citizen,101-500:Medium-High,Fri,6,Jul,150,3,50,1,1,Female
+2023/06/23,Seniors Citizen,101-500:Medium-High,Fri,6,Jun,120,4,30,1,1,Female
+2023/03/03,Seniors Citizen,101-500:Medium-High,Fri,6,Mar,500,1,500,1,1,Male
+2023/05/05,Seniors Citizen,101-500:Medium-High,Fri,6,May,120,4,30,1,1,Male
+2023/08/21,Seniors Citizen,101-500:Medium-High,Mon,2,Aug,300,1,300,1,1,Male
+2023/01/09,Seniors Citizen,101-500:Medium-High,Mon,2,Jan,200,4,50,1,1,Male
+2023/01/02,Seniors Citizen,101-500:Medium-High,Mon,2,Jan,150,3,50,1,1,Female
+2023/06/19,Seniors Citizen,101-500:Medium-High,Mon,2,Jun,120,4,30,1,1,Female
+2023/10/23,Seniors Citizen,101-500:Medium-High,Mon,2,Oct,500,1,500,1,1,Female
+2023/04/15,Seniors Citizen,101-500:Medium-High,Sat,7,Apr,500,1,500,1,1,Female
+2023/05/13,Seniors Citizen,101-500:Medium-High,Sat,7,May,200,4,50,1,1,Female
+2023/08/27,Seniors Citizen,101-500:Medium-High,Sun,1,Aug,150,3,50,1,1,Male
+2023/08/06,Seniors Citizen,101-500:Medium-High,Sun,1,Aug,500,1,500,1,1,Female
+2023/09/24,Seniors Citizen,101-500:Medium-High,Sun,1,Sep,300,1,300,1,1,Female
+2023/07/06,Seniors Citizen,101-500:Medium-High,Thu,5,Jul,200,4,50,1,1,Male
+2023/06/15,Seniors Citizen,101-500:Medium-High,Thu,5,Jun,120,4,30,1,1,Male
+2023/06/22,Seniors Citizen,101-500:Medium-High,Thu,5,Jun,150,3,50,1,1,Female
+2023/02/07,Seniors Citizen,101-500:Medium-High,Tue,3,Feb,300,1,300,1,1,Female
+2023/01/17,Seniors Citizen,101-500:Medium-High,Tue,3,Jan,120,4,30,1,1,Male
+2023/05/16,Seniors Citizen,101-500:Medium-High,Tue,3,May,200,4,50,1,1,Male
+2023/10/03,Seniors Citizen,101-500:Medium-High,Tue,3,Oct,120,4,30,1,1,Male
+2023/04/19,Seniors Citizen,101-500:Medium-High,Wed,4,Apr,150,3,50,1,1,Male
+2023/07/19,Seniors Citizen,101-500:Medium-High,Wed,4,Jul,300,1,300,1,1,Female
+2023/11/08,Seniors Citizen,101-500:Medium-High,Wed,4,Nov,120,4,30,1,1,Male
+2023/10/11,Seniors Citizen,101-500:Medium-High,Wed,4,Oct,300,1,300,1,1,Female
+2023/05/08,Seniors Citizen,1500* : Very High,Mon,2,May,2000,4,500,1,1,Male
+2023/06/24,Seniors Citizen,1500* : Very High,Sat,7,Jun,2000,4,500,1,1,Male
+2023/05/27,Seniors Citizen,1500* : Very High,Sat,7,May,2000,4,500,1,1,Female
+2023/09/30,Seniors Citizen,1500* : Very High,Sat,7,Sep,2000,4,500,1,1,Female
+2023/03/07,Seniors Citizen,1500* : Very High,Tue,3,Mar,2000,4,500,1,1,Male
+2023/10/04,Seniors Citizen,1500* : Very High,Wed,4,Oct,2000,4,500,1,1,Female
+2023/04/01,Seniors Citizen,501-1500:High,Sat,7,Apr,1200,4,300,1,1,Male
+2023/12/16,Seniors Citizen,501-1500:High,Sat,7,Dec,1000,2,500,1,1,Male
+2023/02/11,Seniors Citizen,501-1500:High,Sat,7,Feb,1000,2,500,1,1,Male
+2023/08/27,Seniors Citizen,501-1500:High,Sun,1,Aug,1200,4,300,1,1,Female
+2023/10/15,Seniors Citizen,501-1500:High,Sun,1,Oct,1200,4,300,1,1,Male
+2023/08/17,Seniors Citizen,501-1500:High,Thu,5,Aug,900,3,300,1,1,Female
+2023/11/09,Seniors Citizen,501-1500:High,Thu,5,Nov,900,3,300,1,1,Male
+2023/10/26,Seniors Citizen,501-1500:High,Thu,5,Oct,600,2,300,1,1,Male
+2023/07/25,Seniors Citizen,501-1500:High,Tue,3,Jul,1000,2,500,1,1,Male
+2023/12/13,Seniors Citizen,501-1500:High,Wed,4,Dec,600,2,300,1,1,Male
+2023/07/19,Seniors Citizen,501-1500:High,Wed,4,Jul,1500,3,500,1,1,Male
+2023/03/22,Seniors Citizen,501-1500:High,Wed,4,Mar,1000,2,500,1,1,Male
+2023/02/10,Seniors Citizen,51-100:Medium,Fri,6,Feb,100,2,50,1,1,Male
+2023/07/14,Seniors Citizen,51-100:Medium,Fri,6,Jul,90,3,30,1,1,Male
+2023/05/12,Seniors Citizen,51-100:Medium,Fri,6,May,100,4,25,1,1,Male
+2023/09/22,Seniors Citizen,51-100:Medium,Fri,6,Sep,90,3,30,1,1,Male
+2023/08/28,Seniors Citizen,51-100:Medium,Mon,2,Aug,90,3,30,1,1,Female
+2023/02/13,Seniors Citizen,51-100:Medium,Mon,2,Feb,75,3,25,1,1,Female
+2023/05/08,Seniors Citizen,51-100:Medium,Mon,2,May,75,3,25,1,1,Male
+2023/09/25,Seniors Citizen,51-100:Medium,Mon,2,Sep,100,2,50,1,1,Female
+2023/12/23,Seniors Citizen,51-100:Medium,Sat,7,Dec,100,4,25,1,1,Female
+2023/02/25,Seniors Citizen,51-100:Medium,Sat,7,Feb,100,2,50,1,1,Female
+2023/12/10,Seniors Citizen,51-100:Medium,Sun,1,Dec,60,2,30,1,1,Female
+2023/05/28,Seniors Citizen,51-100:Medium,Sun,1,May,75,3,25,1,1,Female
+2023/08/31,Seniors Citizen,51-100:Medium,Thu,5,Aug,60,2,30,1,1,Male
+2023/06/29,Seniors Citizen,51-100:Medium,Thu,5,Jun,100,4,25,1,1,Male
+2023/09/07,Seniors Citizen,51-100:Medium,Thu,5,Sep,100,2,50,1,1,Female
+2023/07/11,Seniors Citizen,51-100:Medium,Tue,3,Jul,100,2,50,1,1,Male
+2023/06/20,Seniors Citizen,51-100:Medium,Tue,3,Jun,100,4,25,1,1,Male
+2023/03/07,Seniors Citizen,51-100:Medium,Tue,3,Mar,90,3,30,1,1,Female
+2023/09/26,Seniors Citizen,51-100:Medium,Tue,3,Sep,100,2,50,1,1,Female
+2023/06/07,Seniors Citizen,51-100:Medium,Wed,4,Jun,100,2,50,1,1,Female
+2023/03/01,Seniors Citizen,51-100:Medium,Wed,4,Mar,60,2,30,1,1,Female
+2023/10/11,Seniors Citizen,51-100:Medium,Wed,4,Oct,75,3,25,1,1,Female
+2023/04/10,Teenagers,0-50:Low,Mon,2,Apr,30,1,30,1,1,Male
+2023/01/02,Teenagers,0-50:Low,Mon,2,Jan,25,1,25,1,1,Female
+2023/06/04,Teenagers,0-50:Low,Sun,1,Jun,50,1,50,1,1,Female
+2023/01/05,Teenagers,0-50:Low,Thu,5,Jan,50,2,25,1,1,Male
+2023/05/30,Teenagers,0-50:Low,Tue,3,May,50,2,25,1,1,Female
+2023/05/16,Teenagers,0-50:Low,Tue,3,May,30,1,30,1,1,Female
+2023/05/08,Teenagers,101-500:Medium-High,Mon,2,May,500,1,500,1,1,Female
+2023/02/05,Teenagers,101-500:Medium-High,Sun,1,Feb,120,4,30,1,1,Female
+2023/02/12,Teenagers,101-500:Medium-High,Sun,1,Feb,500,1,500,1,1,Female
+2023/09/17,Teenagers,101-500:Medium-High,Sun,1,Sep,150,3,50,1,1,Male
+2023/01/31,Teenagers,101-500:Medium-High,Tue,3,Jan,200,4,50,1,1,Female
+2023/08/23,Teenagers,101-500:Medium-High,Wed,4,Aug,500,1,500,1,1,Female
+2023/03/01,Teenagers,101-500:Medium-High,Wed,4,Mar,300,1,300,1,1,Female
+2023/11/01,Teenagers,101-500:Medium-High,Wed,4,Nov,200,4,50,1,1,Female
+2023/09/16,Teenagers,1500* : Very High,Sat,7,Sep,2000,4,500,1,1,Female
+2023/02/19,Teenagers,1500* : Very High,Sun,1,Feb,2000,4,500,1,1,Male
+2023/11/09,Teenagers,1500* : Very High,Thu,5,Nov,2000,4,500,1,1,Female
+2023/11/22,Teenagers,1500* : Very High,Wed,4,Nov,2000,4,500,1,1,Female
+2023/02/17,Teenagers,501-1500:High,Fri,6,Feb,1500,3,500,1,1,Male
+2023/01/13,Teenagers,501-1500:High,Fri,6,Jan,1200,4,300,1,1,Female
+2023/07/21,Teenagers,501-1500:High,Fri,6,Jul,1000,2,500,1,1,Female
+2023/11/17,Teenagers,501-1500:High,Fri,6,Nov,1500,3,500,1,1,Male
+2023/11/03,Teenagers,501-1500:High,Fri,6,Nov,1200,4,300,1,1,Male
+2023/10/27,Teenagers,501-1500:High,Fri,6,Oct,1500,3,500,1,1,Female
+2023/09/01,Teenagers,501-1500:High,Fri,6,Sep,600,2,300,1,1,Female
+2023/11/13,Teenagers,501-1500:High,Mon,2,Nov,1200,4,300,1,1,Male
+2023/04/08,Teenagers,501-1500:High,Sat,7,Apr,1200,4,300,1,1,Female
+2023/03/25,Teenagers,501-1500:High,Sat,7,Mar,1000,2,500,1,1,Female
+2023/11/16,Teenagers,501-1500:High,Thu,5,Nov,1500,3,500,1,1,Male
+2023/03/15,Teenagers,501-1500:High,Wed,4,Mar,1000,2,500,1,1,Male
+2023/12/01,Teenagers,51-100:Medium,Fri,6,Dec,60,2,30,1,1,Female
+2023/09/15,Teenagers,51-100:Medium,Fri,6,Sep,75,3,25,1,1,Female
+2023/01/02,Teenagers,51-100:Medium,Mon,2,Jan,90,3,30,1,1,Male
+2023/05/08,Teenagers,51-100:Medium,Mon,2,May,75,3,25,1,1,Male
+2023/07/01,Teenagers,51-100:Medium,Sat,7,Jul,90,3,30,1,1,Male
+2023/11/12,Teenagers,51-100:Medium,Sun,1,Nov,75,3,25,1,1,Male
+2023/10/15,Teenagers,51-100:Medium,Sun,1,Oct,100,2,50,1,1,Male
+2023/05/23,Teenagers,51-100:Medium,Tue,3,May,75,3,25,1,1,Female
+2023/05/09,Teenagers,51-100:Medium,Tue,3,May,60,2,30,1,1,Male
+2023/12/27,Teenagers,51-100:Medium,Wed,4,Dec,100,2,50,1,1,Male
+2023/01/11,Teenagers,51-100:Medium,Wed,4,Jan,90,3,30,1,1,Female
+2023/11/08,Teenagers,51-100:Medium,Wed,4,Nov,90,3,30,1,1,Male
+2023/12/15,Young Adults,0-50:Low,Fri,6,Dec,50,1,50,1,1,Male
+2023/12/01,Young Adults,0-50:Low,Fri,6,Dec,50,2,25,1,1,Male
+2023/02/03,Young Adults,0-50:Low,Fri,6,Feb,30,1,30,1,1,Male
+2023/01/20,Young Adults,0-50:Low,Fri,6,Jan,50,1,50,1,1,Male
+2023/06/23,Young Adults,0-50:Low,Fri,6,Jun,50,1,50,1,1,Female
+2023/06/30,Young Adults,0-50:Low,Fri,6,Jun,30,1,30,1,1,Female
+2023/06/02,Young Adults,0-50:Low,Fri,6,Jun,50,2,25,1,1,Female
+2023/03/10,Young Adults,0-50:Low,Fri,6,Mar,25,1,25,1,1,Female
+2023/03/03,Young Adults,0-50:Low,Fri,6,Mar,50,2,25,1,1,Female
+2023/05/05,Young Adults,0-50:Low,Fri,6,May,100,2,100,2,2,Male
+2023/10/20,Young Adults,0-50:Low,Fri,6,Oct,50,1,50,1,1,Male
+2023/09/08,Young Adults,0-50:Low,Fri,6,Sep,50,2,25,1,1,Male
+2023/04/24,Young Adults,0-50:Low,Mon,2,Apr,50,2,25,1,1,Female
+2023/04/10,Young Adults,0-50:Low,Mon,2,Apr,30,1,30,1,1,Male
+2023/08/14,Young Adults,0-50:Low,Mon,2,Aug,30,1,30,1,1,Male
+2023/12/04,Young Adults,0-50:Low,Mon,2,Dec,30,1,30,1,1,Male
+2023/02/20,Young Adults,0-50:Low,Mon,2,Feb,30,1,30,1,1,Female
+2023/02/27,Young Adults,0-50:Low,Mon,2,Feb,25,1,25,1,1,Male
+2023/02/13,Young Adults,0-50:Low,Mon,2,Feb,25,1,25,1,1,Male
+2023/07/24,Young Adults,0-50:Low,Mon,2,Jul,50,2,25,1,1,Female
+2023/06/05,Young Adults,0-50:Low,Mon,2,Jun,50,1,50,1,1,Female
+2023/05/08,Young Adults,0-50:Low,Mon,2,May,50,1,50,1,1,Female
+2023/05/01,Young Adults,0-50:Low,Mon,2,May,25,1,25,1,1,Female
+2023/10/02,Young Adults,0-50:Low,Mon,2,Oct,50,1,50,1,1,Female
+2023/08/26,Young Adults,0-50:Low,Sat,7,Aug,30,1,30,1,1,Male
+2023/08/05,Young Adults,0-50:Low,Sat,7,Aug,50,2,25,1,1,Male
+2023/12/23,Young Adults,0-50:Low,Sat,7,Dec,50,2,50,2,2,Female
+2023/01/28,Young Adults,0-50:Low,Sat,7,Jan,30,1,30,1,1,Female
+2023/06/17,Young Adults,0-50:Low,Sat,7,Jun,50,1,50,1,1,Female
+2023/06/10,Young Adults,0-50:Low,Sat,7,Jun,50,2,25,1,1,Female
+2023/05/27,Young Adults,0-50:Low,Sat,7,May,50,2,25,1,1,Female
+2023/09/09,Young Adults,0-50:Low,Sat,7,Sep,100,3,75,2,2,Female
+2023/04/09,Young Adults,0-50:Low,Sun,1,Apr,25,1,25,1,1,Female
+2023/04/09,Young Adults,0-50:Low,Sun,1,Apr,50,1,50,1,1,Male
+2023/12/24,Young Adults,0-50:Low,Sun,1,Dec,50,1,50,1,1,Female
+2023/02/19,Young Adults,0-50:Low,Sun,1,Feb,25,1,25,1,1,Female
+2023/02/26,Young Adults,0-50:Low,Sun,1,Feb,50,2,25,1,1,Male
+2023/07/09,Young Adults,0-50:Low,Sun,1,Jul,50,1,50,1,1,Female
+2023/06/04,Young Adults,0-50:Low,Sun,1,Jun,50,1,50,1,1,Female
+2023/10/29,Young Adults,0-50:Low,Sun,1,Oct,50,2,25,1,1,Female
+2023/10/22,Young Adults,0-50:Low,Sun,1,Oct,50,1,50,1,1,Male
+2023/09/17,Young Adults,0-50:Low,Sun,1,Sep,100,3,75,2,2,Male
+2023/01/26,Young Adults,0-50:Low,Thu,5,Jan,50,1,50,1,1,Female
+2023/06/29,Young Adults,0-50:Low,Thu,5,Jun,50,1,50,1,1,Female
+2023/06/01,Young Adults,0-50:Low,Thu,5,Jun,50,2,25,1,1,Male
+2023/05/04,Young Adults,0-50:Low,Thu,5,May,50,2,25,1,1,Male
+2023/11/02,Young Adults,0-50:Low,Thu,5,Nov,50,1,50,1,1,Female
+2023/10/05,Young Adults,0-50:Low,Thu,5,Oct,30,1,30,1,1,Male
+2023/10/12,Young Adults,0-50:Low,Thu,5,Oct,25,1,25,1,1,Female
+2023/08/29,Young Adults,0-50:Low,Tue,3,Aug,30,1,30,1,1,Male
+2023/08/15,Young Adults,0-50:Low,Tue,3,Aug,25,1,25,1,1,Male
+2023/08/15,Young Adults,0-50:Low,Tue,3,Aug,25,1,25,1,1,Female
+2023/12/26,Young Adults,0-50:Low,Tue,3,Dec,30,1,30,1,1,Male
+2023/02/28,Young Adults,0-50:Low,Tue,3,Feb,30,1,30,1,1,Female
+2023/02/28,Young Adults,0-50:Low,Tue,3,Feb,50,2,25,1,1,Male
+2023/02/21,Young Adults,0-50:Low,Tue,3,Feb,25,1,25,1,1,Female
+2023/01/10,Young Adults,0-50:Low,Tue,3,Jan,30,1,30,1,1,Female
+2023/05/02,Young Adults,0-50:Low,Tue,3,May,25,1,25,1,1,Male
+2023/11/07,Young Adults,0-50:Low,Tue,3,Nov,50,2,25,1,1,Female
+2023/04/19,Young Adults,0-50:Low,Wed,4,Apr,50,1,50,1,1,Female
+2023/08/23,Young Adults,0-50:Low,Wed,4,Aug,30,1,30,1,1,Female
+2023/12/20,Young Adults,0-50:Low,Wed,4,Dec,100,3,75,2,2,Male
+2023/12/13,Young Adults,0-50:Low,Wed,4,Dec,50,2,25,1,1,Male
+2023/02/22,Young Adults,0-50:Low,Wed,4,Feb,50,2,25,1,1,Male
+2023/07/12,Young Adults,0-50:Low,Wed,4,Jul,30,1,30,1,1,Male
+2023/06/07,Young Adults,0-50:Low,Wed,4,Jun,50,1,50,1,1,Male
+2023/03/08,Young Adults,0-50:Low,Wed,4,Mar,25,1,25,1,1,Female
+2023/11/15,Young Adults,0-50:Low,Wed,4,Nov,30,1,30,1,1,Male
+2023/11/01,Young Adults,0-50:Low,Wed,4,Nov,50,2,25,1,1,Male
+2023/04/21,Young Adults,101-500:Medium-High,Fri,6,Apr,120,4,30,1,1,Male
+2023/12/08,Young Adults,101-500:Medium-High,Fri,6,Dec,300,1,300,1,1,Male
+2023/02/17,Young Adults,101-500:Medium-High,Fri,6,Feb,200,4,50,1,1,Female
+2023/02/10,Young Adults,101-500:Medium-High,Fri,6,Feb,300,1,300,1,1,Male
+2023/06/09,Young Adults,101-500:Medium-High,Fri,6,Jun,120,4,30,1,1,Female
+2023/03/10,Young Adults,101-500:Medium-High,Fri,6,Mar,150,3,50,1,1,Male
+2023/03/24,Young Adults,101-500:Medium-High,Fri,6,Mar,150,3,50,1,1,Male
+2023/03/03,Young Adults,101-500:Medium-High,Fri,6,Mar,200,4,50,1,1,Female
+2023/05/19,Young Adults,101-500:Medium-High,Fri,6,May,300,1,300,1,1,Male
+2023/11/24,Young Adults,101-500:Medium-High,Fri,6,Nov,150,3,50,1,1,Male
+2023/11/17,Young Adults,101-500:Medium-High,Fri,6,Nov,120,4,30,1,1,Female
+2023/09/01,Young Adults,101-500:Medium-High,Fri,6,Sep,150,3,50,1,1,Male
+2023/09/29,Young Adults,101-500:Medium-High,Fri,6,Sep,300,1,300,1,1,Male
+2023/12/04,Young Adults,101-500:Medium-High,Mon,2,Dec,150,3,50,1,1,Female
+2023/02/27,Young Adults,101-500:Medium-High,Mon,2,Feb,200,4,50,1,1,Male
+2023/02/06,Young Adults,101-500:Medium-High,Mon,2,Feb,300,1,300,1,1,Female
+2023/02/06,Young Adults,101-500:Medium-High,Mon,2,Feb,150,3,50,1,1,Male
+2023/07/03,Young Adults,101-500:Medium-High,Mon,2,Jul,200,4,50,1,1,Male
+2023/03/06,Young Adults,101-500:Medium-High,Mon,2,Mar,150,3,50,1,1,Female
+2023/03/20,Young Adults,101-500:Medium-High,Mon,2,Mar,150,3,50,1,1,Male
+2023/03/27,Young Adults,101-500:Medium-High,Mon,2,Mar,500,1,500,1,1,Male
+2023/10/23,Young Adults,101-500:Medium-High,Mon,2,Oct,150,3,50,1,1,Male
+2023/09/11,Young Adults,101-500:Medium-High,Mon,2,Sep,200,4,50,1,1,Female
+2023/09/18,Young Adults,101-500:Medium-High,Mon,2,Sep,200,4,50,1,1,Female
+2023/08/12,Young Adults,101-500:Medium-High,Sat,7,Aug,150,3,50,1,1,Female
+2023/12/23,Young Adults,101-500:Medium-High,Sat,7,Dec,300,1,300,1,1,Female
+2023/12/23,Young Adults,101-500:Medium-High,Sat,7,Dec,500,1,500,1,1,Male
+2023/06/03,Young Adults,101-500:Medium-High,Sat,7,Jun,1000,2,1000,2,2,Female
+2023/11/04,Young Adults,101-500:Medium-High,Sat,7,Nov,500,1,500,1,1,Female
+2023/09/02,Young Adults,101-500:Medium-High,Sat,7,Sep,120,4,30,1,1,Male
+2023/04/09,Young Adults,101-500:Medium-High,Sun,1,Apr,200,4,50,1,1,Male
+2023/08/13,Young Adults,101-500:Medium-High,Sun,1,Aug,200,4,50,1,1,Female
+2023/02/05,Young Adults,101-500:Medium-High,Sun,1,Feb,150,3,50,1,1,Male
+2023/02/05,Young Adults,101-500:Medium-High,Sun,1,Feb,200,4,50,1,1,Female
+2023/07/30,Young Adults,101-500:Medium-High,Sun,1,Jul,120,4,30,1,1,Female
+2023/06/11,Young Adults,101-500:Medium-High,Sun,1,Jun,300,1,300,1,1,Male
+2023/03/26,Young Adults,101-500:Medium-High,Sun,1,Mar,120,4,30,1,1,Male
+2023/05/07,Young Adults,101-500:Medium-High,Sun,1,May,200,4,50,1,1,Male
+2023/05/14,Young Adults,101-500:Medium-High,Sun,1,May,500,1,500,1,1,Male
+2023/10/01,Young Adults,101-500:Medium-High,Sun,1,Oct,300,1,300,1,1,Male
+2023/10/01,Young Adults,101-500:Medium-High,Sun,1,Oct,500,1,500,1,1,Female
+2023/10/15,Young Adults,101-500:Medium-High,Sun,1,Oct,200,4,50,1,1,Female
+2023/09/03,Young Adults,101-500:Medium-High,Sun,1,Sep,300,1,300,1,1,Male
+2023/08/10,Young Adults,101-500:Medium-High,Thu,5,Aug,200,4,50,1,1,Male
+2023/12/07,Young Adults,101-500:Medium-High,Thu,5,Dec,500,1,500,1,1,Male
+2023/01/26,Young Adults,101-500:Medium-High,Thu,5,Jan,120,4,30,1,1,Male
+2023/06/08,Young Adults,101-500:Medium-High,Thu,5,Jun,500,1,500,1,1,Male
+2023/03/23,Young Adults,101-500:Medium-High,Thu,5,Mar,150,3,50,1,1,Male
+2023/05/18,Young Adults,101-500:Medium-High,Thu,5,May,500,1,500,1,1,Male
+2023/11/09,Young Adults,101-500:Medium-High,Thu,5,Nov,200,4,50,1,1,Male
+2023/10/19,Young Adults,101-500:Medium-High,Thu,5,Oct,300,1,300,1,1,Male
+2023/10/12,Young Adults,101-500:Medium-High,Thu,5,Oct,150,3,50,1,1,Male
+2023/10/05,Young Adults,101-500:Medium-High,Thu,5,Oct,500,1,500,1,1,Male
+2023/09/28,Young Adults,101-500:Medium-High,Thu,5,Sep,300,1,300,1,1,Male
+2023/04/18,Young Adults,101-500:Medium-High,Tue,3,Apr,300,1,300,1,1,Male
+2023/08/01,Young Adults,101-500:Medium-High,Tue,3,Aug,500,1,500,1,1,Female
+2023/12/05,Young Adults,101-500:Medium-High,Tue,3,Dec,200,4,50,1,1,Female
+2023/12/26,Young Adults,101-500:Medium-High,Tue,3,Dec,200,4,50,1,1,Female
+2023/01/10,Young Adults,101-500:Medium-High,Tue,3,Jan,200,4,50,1,1,Male
+2023/07/04,Young Adults,101-500:Medium-High,Tue,3,Jul,500,1,500,1,1,Male
+2023/07/25,Young Adults,101-500:Medium-High,Tue,3,Jul,500,1,500,1,1,Female
+2023/07/25,Young Adults,101-500:Medium-High,Tue,3,Jul,500,1,500,1,1,Male
+2023/06/06,Young Adults,101-500:Medium-High,Tue,3,Jun,500,1,500,1,1,Male
+2023/05/16,Young Adults,101-500:Medium-High,Tue,3,May,300,1,300,1,1,Female
+2023/11/07,Young Adults,101-500:Medium-High,Tue,3,Nov,500,1,500,1,1,Female
+2023/10/10,Young Adults,101-500:Medium-High,Tue,3,Oct,120,4,30,1,1,Male
+2023/10/31,Young Adults,101-500:Medium-High,Tue,3,Oct,200,4,50,1,1,Male
+2023/04/12,Young Adults,101-500:Medium-High,Wed,4,Apr,120,4,30,1,1,Female
+2023/08/09,Young Adults,101-500:Medium-High,Wed,4,Aug,150,3,50,1,1,Female
+2023/12/20,Young Adults,101-500:Medium-High,Wed,4,Dec,200,4,50,1,1,Female
+2023/12/06,Young Adults,101-500:Medium-High,Wed,4,Dec,300,1,300,1,1,Female
+2023/01/04,Young Adults,101-500:Medium-High,Wed,4,Jan,150,3,50,1,1,Female
+2023/07/05,Young Adults,101-500:Medium-High,Wed,4,Jul,700,5,550,2,2,Male
+2023/07/19,Young Adults,101-500:Medium-High,Wed,4,Jul,200,4,50,1,1,Female
+2023/05/31,Young Adults,101-500:Medium-High,Wed,4,May,200,4,50,1,1,Male
+2023/11/01,Young Adults,101-500:Medium-High,Wed,4,Nov,300,1,300,1,1,Female
+2023/10/04,Young Adults,101-500:Medium-High,Wed,4,Oct,200,4,50,1,1,Female
+2023/07/14,Young Adults,1500* : Very High,Fri,6,Jul,2000,4,500,1,1,Female
+2023/10/27,Young Adults,1500* : Very High,Fri,6,Oct,2000,4,500,1,1,Male
+2023/09/29,Young Adults,1500* : Very High,Fri,6,Sep,2000,4,500,1,1,Female
+2023/02/13,Young Adults,1500* : Very High,Mon,2,Feb,2000,4,500,1,1,Male
+2023/01/16,Young Adults,1500* : Very High,Mon,2,Jan,2000,4,500,1,1,Female
+2023/01/23,Young Adults,1500* : Very High,Mon,2,Jan,2000,4,500,1,1,Female
+2023/04/01,Young Adults,1500* : Very High,Sat,7,Apr,2000,4,500,1,1,Male
+2023/04/02,Young Adults,1500* : Very High,Sun,1,Apr,2000,4,500,1,1,Male
+2023/07/23,Young Adults,1500* : Very High,Sun,1,Jul,2000,4,500,1,1,Male
+2023/04/20,Young Adults,1500* : Very High,Thu,5,Apr,2000,4,500,1,1,Male
+2023/07/06,Young Adults,1500* : Very High,Thu,5,Jul,2000,4,500,1,1,Male
+2023/08/29,Young Adults,1500* : Very High,Tue,3,Aug,2000,4,500,1,1,Female
+2023/05/23,Young Adults,1500* : Very High,Tue,3,May,4000,8,1000,2,2,Female
+2023/05/16,Young Adults,1500* : Very High,Tue,3,May,2000,4,500,1,1,Female
+2023/02/01,Young Adults,1500* : Very High,Wed,4,Feb,2000,4,500,1,1,Male
+2023/05/17,Young Adults,1500* : Very High,Wed,4,May,2000,4,500,1,1,Male
+2023/10/18,Young Adults,1500* : Very High,Wed,4,Oct,2000,4,500,1,1,Female
+2023/12/29,Young Adults,501-1500:High,Fri,6,Dec,1500,3,500,1,1,Female
+2023/12/08,Young Adults,501-1500:High,Fri,6,Dec,1000,2,500,1,1,Female
+2023/12/08,Young Adults,501-1500:High,Fri,6,Dec,600,2,300,1,1,Male
+2023/02/17,Young Adults,501-1500:High,Fri,6,Feb,2100,7,600,2,2,Male
+2023/02/03,Young Adults,501-1500:High,Fri,6,Feb,1200,4,300,1,1,Female
+2023/02/24,Young Adults,501-1500:High,Fri,6,Feb,1200,4,300,1,1,Male
+2023/07/28,Young Adults,501-1500:High,Fri,6,Jul,1900,5,800,2,2,Female
+2023/07/14,Young Adults,501-1500:High,Fri,6,Jul,900,3,300,1,1,Male
+2023/06/30,Young Adults,501-1500:High,Fri,6,Jun,1000,2,500,1,1,Female
+2023/06/09,Young Adults,501-1500:High,Fri,6,Jun,1500,3,500,1,1,Male
+2023/03/31,Young Adults,501-1500:High,Fri,6,Mar,1200,4,300,1,1,Male
+2023/05/26,Young Adults,501-1500:High,Fri,6,May,900,3,300,1,1,Male
+2023/08/21,Young Adults,501-1500:High,Mon,2,Aug,1000,2,500,1,1,Male
+2023/12/18,Young Adults,501-1500:High,Mon,2,Dec,900,3,300,1,1,Female
+2023/02/27,Young Adults,501-1500:High,Mon,2,Feb,1000,2,500,1,1,Female
+2023/02/13,Young Adults,501-1500:High,Mon,2,Feb,1500,3,500,1,1,Male
+2023/07/24,Young Adults,501-1500:High,Mon,2,Jul,1500,3,500,1,1,Male
+2023/06/19,Young Adults,501-1500:High,Mon,2,Jun,1200,4,300,1,1,Male
+2023/06/26,Young Adults,501-1500:High,Mon,2,Jun,1200,4,300,1,1,Female
+2023/03/20,Young Adults,501-1500:High,Mon,2,Mar,900,3,300,1,1,Female
+2023/03/20,Young Adults,501-1500:High,Mon,2,Mar,1200,4,300,1,1,Male
+2023/05/22,Young Adults,501-1500:High,Mon,2,May,1500,3,500,1,1,Male
+2023/11/06,Young Adults,501-1500:High,Mon,2,Nov,1200,4,300,1,1,Female
+2023/10/16,Young Adults,501-1500:High,Mon,2,Oct,1500,3,500,1,1,Male
+2023/09/18,Young Adults,501-1500:High,Mon,2,Sep,600,2,300,1,1,Female
+2023/04/29,Young Adults,501-1500:High,Sat,7,Apr,900,3,300,1,1,Female
+2023/08/19,Young Adults,501-1500:High,Sat,7,Aug,1500,3,500,1,1,Male
+2023/08/05,Young Adults,501-1500:High,Sat,7,Aug,1200,4,300,1,1,Female
+2023/08/05,Young Adults,501-1500:High,Sat,7,Aug,1500,3,500,1,1,Male
+2023/08/26,Young Adults,501-1500:High,Sat,7,Aug,900,3,300,1,1,Female
+2023/12/09,Young Adults,501-1500:High,Sat,7,Dec,1200,4,300,1,1,Female
+2023/02/18,Young Adults,501-1500:High,Sat,7,Feb,1000,2,500,1,1,Male
+2023/02/25,Young Adults,501-1500:High,Sat,7,Feb,1500,3,500,1,1,Male
+2023/07/15,Young Adults,501-1500:High,Sat,7,Jul,1500,3,500,1,1,Female
+2023/06/24,Young Adults,501-1500:High,Sat,7,Jun,1200,4,300,1,1,Female
+2023/05/20,Young Adults,501-1500:High,Sat,7,May,600,2,300,1,1,Male
+2023/10/07,Young Adults,501-1500:High,Sat,7,Oct,2200,6,800,2,2,Female
+2023/09/30,Young Adults,501-1500:High,Sat,7,Sep,900,3,300,1,1,Female
+2023/04/23,Young Adults,501-1500:High,Sun,1,Apr,600,2,300,1,1,Female
+2023/04/09,Young Adults,501-1500:High,Sun,1,Apr,1000,2,500,1,1,Female
+2023/12/03,Young Adults,501-1500:High,Sun,1,Dec,600,2,300,1,1,Female
+2023/12/10,Young Adults,501-1500:High,Sun,1,Dec,1200,4,300,1,1,Female
+2023/01/29,Young Adults,501-1500:High,Sun,1,Jan,600,2,300,1,1,Male
+2023/06/11,Young Adults,501-1500:High,Sun,1,Jun,1000,2,500,1,1,Female
+2023/06/11,Young Adults,501-1500:High,Sun,1,Jun,900,3,300,1,1,Male
+2023/03/26,Young Adults,501-1500:High,Sun,1,Mar,1200,4,300,1,1,Female
+2023/11/05,Young Adults,501-1500:High,Sun,1,Nov,900,3,300,1,1,Male
+2023/04/20,Young Adults,501-1500:High,Thu,5,Apr,1200,4,300,1,1,Male
+2023/04/27,Young Adults,501-1500:High,Thu,5,Apr,1200,4,300,1,1,Female
+2023/12/14,Young Adults,501-1500:High,Thu,5,Dec,600,2,300,1,1,Male
+2023/02/02,Young Adults,501-1500:High,Thu,5,Feb,1200,4,300,1,1,Male
+2023/02/16,Young Adults,501-1500:High,Thu,5,Feb,900,3,300,1,1,Male
+2023/01/26,Young Adults,501-1500:High,Thu,5,Jan,900,3,300,1,1,Female
+2023/03/23,Young Adults,501-1500:High,Thu,5,Mar,1500,3,500,1,1,Female
+2023/03/09,Young Adults,501-1500:High,Thu,5,Mar,900,3,300,1,1,Male
+2023/05/25,Young Adults,501-1500:High,Thu,5,May,600,2,300,1,1,Male
+2023/05/04,Young Adults,501-1500:High,Thu,5,May,1000,2,500,1,1,Male
+2023/08/22,Young Adults,501-1500:High,Tue,3,Aug,1200,4,300,1,1,Male
+2023/02/07,Young Adults,501-1500:High,Tue,3,Feb,1500,3,500,1,1,Female
+2023/01/03,Young Adults,501-1500:High,Tue,3,Jan,600,2,300,1,1,Female
+2023/01/31,Young Adults,501-1500:High,Tue,3,Jan,900,3,300,1,1,Male
+2023/01/31,Young Adults,501-1500:High,Tue,3,Jan,1000,2,500,1,1,Female
+2023/03/21,Young Adults,501-1500:High,Tue,3,Mar,1200,4,300,1,1,Male
+2023/05/23,Young Adults,501-1500:High,Tue,3,May,1200,4,300,1,1,Male
+2023/11/14,Young Adults,501-1500:High,Tue,3,Nov,900,3,300,1,1,Male
+2023/10/03,Young Adults,501-1500:High,Tue,3,Oct,600,2,300,1,1,Female
+2023/10/31,Young Adults,501-1500:High,Tue,3,Oct,1500,3,500,1,1,Female
+2023/04/19,Young Adults,501-1500:High,Wed,4,Apr,1500,3,500,1,1,Female
+2023/04/05,Young Adults,501-1500:High,Wed,4,Apr,1200,4,300,1,1,Female
+2023/08/09,Young Adults,501-1500:High,Wed,4,Aug,600,2,300,1,1,Male
+2023/12/06,Young Adults,501-1500:High,Wed,4,Dec,1500,3,500,1,1,Female
+2023/12/20,Young Adults,501-1500:High,Wed,4,Dec,900,3,300,1,1,Female
+2023/02/01,Young Adults,501-1500:High,Wed,4,Feb,1200,4,300,1,1,Female
+2023/06/14,Young Adults,501-1500:High,Wed,4,Jun,900,3,300,1,1,Female
+2023/05/31,Young Adults,501-1500:High,Wed,4,May,900,3,300,1,1,Female
+2023/05/31,Young Adults,501-1500:High,Wed,4,May,1200,4,300,1,1,Male
+2023/11/15,Young Adults,501-1500:High,Wed,4,Nov,1500,3,500,1,1,Male
+2023/11/01,Young Adults,501-1500:High,Wed,4,Nov,900,3,300,1,1,Male
+2023/10/04,Young Adults,501-1500:High,Wed,4,Oct,600,2,300,1,1,Female
+2023/10/11,Young Adults,501-1500:High,Wed,4,Oct,1000,2,500,1,1,Female
+2023/09/06,Young Adults,501-1500:High,Wed,4,Sep,1200,4,300,1,1,Female
+2023/01/27,Young Adults,51-100:Medium,Fri,6,Jan,100,4,25,1,1,Male
+2023/01/27,Young Adults,51-100:Medium,Fri,6,Jan,75,3,25,1,1,Female
+2023/01/20,Young Adults,51-100:Medium,Fri,6,Jan,75,3,25,1,1,Male
+2023/11/24,Young Adults,51-100:Medium,Fri,6,Nov,60,2,30,1,1,Female
+2023/10/13,Young Adults,51-100:Medium,Fri,6,Oct,75,3,25,1,1,Female
+2023/09/29,Young Adults,51-100:Medium,Fri,6,Sep,100,4,25,1,1,Female
+2023/08/28,Young Adults,51-100:Medium,Mon,2,Aug,60,2,30,1,1,Male
+2023/08/21,Young Adults,51-100:Medium,Mon,2,Aug,90,3,30,1,1,Male
+2023/01/30,Young Adults,51-100:Medium,Mon,2,Jan,90,3,30,1,1,Male
+2023/07/24,Young Adults,51-100:Medium,Mon,2,Jul,60,2,30,1,1,Male
+2023/03/20,Young Adults,51-100:Medium,Mon,2,Mar,100,4,25,1,1,Female
+2023/03/06,Young Adults,51-100:Medium,Mon,2,Mar,75,3,25,1,1,Female
+2023/03/27,Young Adults,51-100:Medium,Mon,2,Mar,90,3,30,1,1,Female
+2023/05/01,Young Adults,51-100:Medium,Mon,2,May,100,2,50,1,1,Female
+2023/11/27,Young Adults,51-100:Medium,Mon,2,Nov,90,3,30,1,1,Female
+2023/10/02,Young Adults,51-100:Medium,Mon,2,Oct,75,3,25,1,1,Male
+2023/10/16,Young Adults,51-100:Medium,Mon,2,Oct,60,2,30,1,1,Male
+2023/10/30,Young Adults,51-100:Medium,Mon,2,Oct,75,3,25,1,1,Male
+2023/10/23,Young Adults,51-100:Medium,Mon,2,Oct,100,4,25,1,1,Male
+2023/10/02,Young Adults,51-100:Medium,Mon,2,Oct,100,4,25,1,1,Female
+2023/04/29,Young Adults,51-100:Medium,Sat,7,Apr,60,2,30,1,1,Female
+2023/04/22,Young Adults,51-100:Medium,Sat,7,Apr,100,4,25,1,1,Female
+2023/08/19,Young Adults,51-100:Medium,Sat,7,Aug,60,2,30,1,1,Female
+2023/12/09,Young Adults,51-100:Medium,Sat,7,Dec,200,4,100,2,2,Male
+2023/02/11,Young Adults,51-100:Medium,Sat,7,Feb,90,3,30,1,1,Male
+2023/01/14,Young Adults,51-100:Medium,Sat,7,Jan,75,3,25,1,1,Male
+2023/01/28,Young Adults,51-100:Medium,Sat,7,Jan,90,3,30,1,1,Male
+2023/01/14,Young Adults,51-100:Medium,Sat,7,Jan,75,3,25,1,1,Female
+2023/07/22,Young Adults,51-100:Medium,Sat,7,Jul,100,4,25,1,1,Female
+2023/07/01,Young Adults,51-100:Medium,Sat,7,Jul,160,6,55,2,2,Male
+2023/07/29,Young Adults,51-100:Medium,Sat,7,Jul,75,3,25,1,1,Female
+2023/03/25,Young Adults,51-100:Medium,Sat,7,Mar,100,2,50,1,1,Female
+2023/05/06,Young Adults,51-100:Medium,Sat,7,May,160,4,80,2,2,Male
+2023/09/16,Young Adults,51-100:Medium,Sat,7,Sep,100,4,25,1,1,Female
+2023/09/09,Young Adults,51-100:Medium,Sat,7,Sep,100,2,50,1,1,Male
+2023/12/10,Young Adults,51-100:Medium,Sun,1,Dec,160,4,80,2,2,Male
+2023/01/15,Young Adults,51-100:Medium,Sun,1,Jan,100,4,25,1,1,Male
+2023/03/26,Young Adults,51-100:Medium,Sun,1,Mar,100,2,50,1,1,Male
+2023/11/19,Young Adults,51-100:Medium,Sun,1,Nov,100,2,50,1,1,Female
+2023/10/29,Young Adults,51-100:Medium,Sun,1,Oct,100,4,25,1,1,Female
+2023/09/24,Young Adults,51-100:Medium,Sun,1,Sep,90,3,30,1,1,Female
+2023/08/24,Young Adults,51-100:Medium,Thu,5,Aug,75,3,25,1,1,Female
+2023/07/27,Young Adults,51-100:Medium,Thu,5,Jul,90,3,30,1,1,Female
+2023/07/13,Young Adults,51-100:Medium,Thu,5,Jul,100,2,50,1,1,Male
+2023/06/15,Young Adults,51-100:Medium,Thu,5,Jun,100,2,50,1,1,Female
+2023/11/02,Young Adults,51-100:Medium,Thu,5,Nov,200,6,75,2,2,Male
+2023/10/26,Young Adults,51-100:Medium,Thu,5,Oct,90,3,30,1,1,Female
+2023/09/21,Young Adults,51-100:Medium,Thu,5,Sep,75,3,25,1,1,Female
+2023/04/18,Young Adults,51-100:Medium,Tue,3,Apr,100,4,25,1,1,Female
+2023/08/01,Young Adults,51-100:Medium,Tue,3,Aug,100,2,50,1,1,Female
+2023/12/05,Young Adults,51-100:Medium,Tue,3,Dec,100,4,25,1,1,Female
+2023/12/26,Young Adults,51-100:Medium,Tue,3,Dec,100,2,50,1,1,Female
+2023/02/14,Young Adults,51-100:Medium,Tue,3,Feb,100,2,50,1,1,Male
+2023/02/21,Young Adults,51-100:Medium,Tue,3,Feb,60,2,30,1,1,Male
+2023/06/20,Young Adults,51-100:Medium,Tue,3,Jun,90,3,30,1,1,Female
+2023/05/30,Young Adults,51-100:Medium,Tue,3,May,90,3,30,1,1,Female
+2023/11/21,Young Adults,51-100:Medium,Tue,3,Nov,100,2,50,1,1,Female
+2023/10/31,Young Adults,51-100:Medium,Tue,3,Oct,90,3,30,1,1,Male
+2023/10/17,Young Adults,51-100:Medium,Tue,3,Oct,75,3,25,1,1,Male
+2023/09/19,Young Adults,51-100:Medium,Tue,3,Sep,100,4,25,1,1,Male
+2023/04/19,Young Adults,51-100:Medium,Wed,4,Apr,75,3,25,1,1,Female
+2023/08/09,Young Adults,51-100:Medium,Wed,4,Aug,60,2,30,1,1,Male
+2023/02/22,Young Adults,51-100:Medium,Wed,4,Feb,100,4,25,1,1,Male
+2023/02/08,Young Adults,51-100:Medium,Wed,4,Feb,75,3,25,1,1,Female
+2023/02/22,Young Adults,51-100:Medium,Wed,4,Feb,75,3,25,1,1,Female
+2023/01/04,Young Adults,51-100:Medium,Wed,4,Jan,90,3,30,1,1,Male
+2023/01/11,Young Adults,51-100:Medium,Wed,4,Jan,90,3,30,1,1,Female
+2023/06/21,Young Adults,51-100:Medium,Wed,4,Jun,100,4,25,1,1,Female
+2023/11/22,Young Adults,51-100:Medium,Wed,4,Nov,100,2,50,1,1,Female
+2023/10/11,Young Adults,51-100:Medium,Wed,4,Oct,75,3,25,1,1,Male
+2023/10/04,Young Adults,51-100:Medium,Wed,4,Oct,90,3,30,1,1,Male
+2023/09/06,Young Adults,51-100:Medium,Wed,4,Sep,75,3,25,1,1,Male
