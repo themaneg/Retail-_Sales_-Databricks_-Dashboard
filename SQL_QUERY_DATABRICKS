@@ -1,0 +1,50 @@
+SELECT * FROM workspace.default.retail_sales_dataset;
+
+SELECT
+    MIN(`Total Amount`) AS Min_Total_Amount,
+    MAX(`Total Amount`) AS Max_Total_Amount
+FROM workspace.default.retail_sales_dataset;
+
+SELECT
+-- Date conversion
+    TO_DATE(Date, 'yyyy-MM-dd') AS Converted_Date,
+ 
+-- Age Grouping
+    CASE
+        WHEN Age < 13 THEN 'Kids'
+        WHEN Age BETWEEN 13 AND 19 THEN 'Teenagers' 
+        WHEN Age BETWEEN 20 AND 35 THEN 'Young Adults'
+        WHEN Age BETWEEN 36 AND 60 THEN 'Adults'
+             ELSE 'Seniors Citizen'
+    END AS AgeGroup,
+
+-- Revenue Grouping
+    CASE
+       WHEN `Total Amount` BETWEEN 0  AND 50 THEN '0-50:Low'
+       WHEN `Total Amount` BETWEEN 51  AND 100 THEN '51-100:Medium'
+       WHEN `Total Amount` BETWEEN 101 AND 500 THEN '101-500:Medium-High'
+       WHEN `Total Amount` BETWEEN 501 AND 1500 THEN '501-1500:High'
+         ELSE '1500* : Very High'
+    END AS total_revenue_group,
+
+-- Date-related attributes
+   DAYNAME(TO_DATE(Date, 'yyyy-MM-dd')) AS purchase_day,
+   DAYOFWEEK(TO_DATE(Date, 'yyyy-MM-dd')) AS day_of_week,
+   MONTHNAME(TO_DATE(Date, 'yyyy-MM-dd')) AS month_of_year,
+
+-- Additional aggregations
+   SUM(`Total Amount`) AS total_revenue,
+   SUM(`Quantity`) AS total_quantity,
+   SUM(`Price per Unit`) AS total_price_per_unit,
+   COUNT(`Customer ID`) AS total_number_of_customers,
+   COUNT(`Transaction ID`) AS total_number_of_transaction,
+   Gender
+FROM workspace.default.retail_sales_dataset
+GROUP BY ALL
+ORDER BY
+    AgeGroup,
+    total_revenue_group,
+    purchase_day,
+    day_of_week,
+    month_of_year
+LIMIT 1000;
