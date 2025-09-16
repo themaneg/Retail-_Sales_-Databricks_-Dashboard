@@ -1,22 +1,21 @@
 # Retail-_Sales_-Databricks_-Dashboard
- Project Overview
-A brief, clear, and engaging summary of your project.
+ Project Overview- A brief, clear, and engaging.
 
-🚀 About Retail-Sales
+🚀 **About Retail-Sales**
 This project provides a comprehensive analysis of retail sales data to uncover key trends, performance metrics, and insights that can inform business strategies. The analysis is built using SQL queries within the Databricks environment, leveraging its scalable and efficient processing capabilities.
 
-The goal is to provide a robust framework for:
+**The goal is to provide a robust framework for:**
 
 Data Cleaning and Preprocessing: Utilizing Databricks SQL to cleanse and transform raw data.
 
 Exploratory Data Analysis (EDA): Running ad-hoc queries to visualize and understand sales trends over time, identify top-performing products, and analyze customer behavior.
 
-Dashboarding: Creating interactive visualizations in Databricks to make insights easily accessible.
+**Dashboarding**: Creating interactive visualizations in Databricks to make insights easily accessible.
 
-📦 Data
+📦 **Data**
 Describe the dataset you used, including its source and a brief description of its contents. Mention how the data is stored in Databricks (e.g., as a Delta Lake table).
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 List the programming languages, libraries, and tools used in the project.
 
 Platform: Databricks
@@ -28,7 +27,7 @@ Data Storage: Delta Lake
 Tools: Databricks SQL Editor, [e.g., Databricks Dashboards, Databricks Notebooks]
 
 📋 Installation & Usage
-Provide clear, step-by-step instructions on how to set up and use your project. Since it's on Databricks, the process is different from a local repository.
+Below step-by-step instructions on how to set up and use your project 
 
 Access Databricks Workspace: You will need access to a Databricks workspace.
 
